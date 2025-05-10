@@ -1,0 +1,56 @@
+# Python virtual environments
+venv/
+env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django secret keys and environment variables
+*.env
+.env.*
+
+# PostgreSQL database dumps and credentials
+*.pgpass
+*.sql
+*.dump
+
+# Database migration files (optional, if you don't want to track them)
+# **/migrations/
+
+# Static and media files
+staticfiles/
+media/
+
+# Logs and temporary files
+*.log
+*.bak
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+
+# PyTest cache
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+*.cover
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Build files
+build/
+dist/
+*.egg-info/
