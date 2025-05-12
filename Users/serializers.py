@@ -23,12 +23,18 @@ class UserRegistrationSerializer(serializers.ModelSerializer):
         ]
 
     def validate(self, data):
+        password = data.get("password")
+        if not re.match(
+            r"^(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{8,}$", password
+        ):
+            raise serializers.ValidationError(
+                {
+                    "password": "Password must be at least 8 characters long and include at least one uppercase letter, one number, and one special character."
+                }
+            )
 
-        if data["password"] != data["confirm_password"]:
+        if password != data.get("confirm_password"):
             raise serializers.ValidationError({"password": "Passwords do not match."})
-
-        if CustomUser.objects.filter(email=data["email"]).exists():
-            raise serializers.ValidationError({"email": "This email is already taken."})
 
         return data
 

@@ -17,15 +17,37 @@ class UserRegistrationView(APIView):
             user = serializer.save()
 
             refresh = RefreshToken.for_user(user)
-            return Response(
+            user_data = {
+                "username": user.username,
+                "email": user.email,
+                "first_name": user.first_name,
+                "last_name": user.last_name,
+                "phone_number": user.phone_number,
+            }
+
+            response = Response(
                 {
                     "message": "User registered successfully!",
-                    "user": serializer.data,
-                    "tokens": {
-                        "refresh": str(refresh),
-                        "access": str(refresh.access_token),
-                    },
+                    "user": user_data,
                 },
                 status=status.HTTP_201_CREATED,
             )
+
+            response.set_cookie(
+                "access_token",
+                str(refresh.access_token),
+                httponly=True,
+                secure=True,
+                samesite="Lax",
+            )
+            response.set_cookie(
+                "refresh_token",
+                str(refresh),
+                httponly=True,
+                secure=True,
+                samesite="Lax",
+            )
+
+            return response
+
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
