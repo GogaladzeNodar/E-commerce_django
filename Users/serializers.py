@@ -1,9 +1,11 @@
 from django.contrib.auth import get_user_model
 from rest_framework import serializers
 import re
-from .models import CustomUser
 from django.contrib.auth import authenticate
 from rest_framework_simplejwt.tokens import RefreshToken
+from django.contrib.auth.tokens import PasswordResetTokenGenerator
+from django.core.mail import send_mail
+from django.urls import reverse
 
 
 class UserRegistrationSerializer(serializers.ModelSerializer):
@@ -96,3 +98,63 @@ class LogoutSerializer(serializers.Serializer):
         except Exception as e:
             raise serializers.ValidationError("Invalid refresh token.")
         return value
+
+
+class PasswordResetSerializer(serializers.Serializer):
+    email = serializers.EmailField()
+
+    def validate_email(self, value):
+        try:
+            user = get_user_model().objects.get(email=value)
+            self.context["user"] = user
+        except user.DoesNotExist:
+            raise serializers.ValidationError("User with this Email Doesn't exists")
+        return value
+
+    def save(self):
+        user = self.context["user"]
+        token_generator = PasswordResetTokenGenerator()
+        token = token_generator.make_token(user)
+        uid = user.pk
+
+        reset_link = (
+            self.context["request"].build_absolute_uri(
+                reverse("password_reset_confirm")
+            )
+            + f"?uid={uid}&token={token}"
+        )
+
+        send_mail(
+            "Password Reset",
+            f"Go to the link to reset your password : {reset_link}",
+            "gogaladzenodar9@gmail.com",
+            [user.email],
+            fail_silently=False,
+        )
+
+
+class PasswordResetConfirmSerializer(serializers.Serializer):
+    uid = serializers.CharField()
+    token = serializers.CharField()
+    new_password = serializers.CharField(write_only=True)
+
+    def validate(self, attrs):
+        uid = attrs.get("uid")
+        token = attrs.get("token")
+        new_password = attrs.get("new_password")
+
+        try:
+            user = get_user_model().objects.get(pk=uid)
+        except get_user_model().DoesNotExist:
+            raise serializers.ValidationError("user not found.")
+
+        if not PasswordResetTokenGenerator().check_token(user, token):
+            raise serializers.ValidationError("The token is invalid or expired.")
+
+        attrs["user"] = user
+        return attrs
+
+    def save(self):
+        user = self.validated_data["user"]
+        user.set_password(self.validated_data["new_password"])
+        user.save()

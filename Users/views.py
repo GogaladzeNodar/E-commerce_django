@@ -8,13 +8,15 @@ from .serializers import (
     UserRegistrationSerializer,
     UserLoginSerializer,
     LogoutSerializer,
+    PasswordResetSerializer,
+    PasswordResetConfirmSerializer,
 )
 
 from django.views.decorators.csrf import csrf_exempt
 from django.utils.decorators import method_decorator
 
 
-# @method_decorator(csrf_exempt, name="dispatch")
+@method_decorator(csrf_exempt, name="dispatch")
 class UserRegistrationView(APIView):
     permission_classes = [AllowAny]
 
@@ -91,3 +93,25 @@ class UserLogoutView(APIView):
                 )
 
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+
+
+class PasswordResetAPIView(APIView):
+    def post(self, request):
+        serializer = PasswordResetSerializer(
+            data=request.data, context={"request": request}
+        )
+        serializer.is_valid(raise_exception=True)
+        serializer.save()
+        return Response(
+            {"message": "Password recovery link sent"}, status=status.HTTP_200_OK
+        )
+
+
+class PasswordResetConfirmAPIView(APIView):
+    def post(self, request):
+        serializer = PasswordResetConfirmSerializer(data=request.data)
+        serializer.is_valid(raise_exception=True)
+        serializer.save()
+        return Response(
+            {"message": "Password successfully updated"}, status=status.HTTP_200_OK
+        )
