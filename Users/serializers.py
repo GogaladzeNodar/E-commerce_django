@@ -6,6 +6,10 @@ from rest_framework_simplejwt.tokens import RefreshToken
 from django.contrib.auth.tokens import PasswordResetTokenGenerator
 from django.core.mail import send_mail
 from django.urls import reverse
+from django.contrib.auth.password_validation import validate_password
+from django.core.exceptions import ValidationError
+
+User = get_user_model()
 
 
 class UserRegistrationSerializer(serializers.ModelSerializer):
@@ -68,7 +72,9 @@ class UserLoginSerializer(serializers.Serializer):
         # Authenticate user
         user = authenticate(username=email, password=password)
         if user is None:
-            raise serializers.ValidationError("Invalid email or password")
+            raise serializers.ValidationError(
+                {"non_field_errors": ["Invalid email or password"]}
+            )
 
         # Generate tokens
         refresh = RefreshToken.for_user(user)
@@ -88,7 +94,7 @@ class UserLoginSerializer(serializers.Serializer):
         }
 
 
-class LogoutSerializer(serializers.Serializer):
+class UserLogoutSerializer(serializers.Serializer):
     refresh_token = serializers.CharField()
 
     def validate_refresh_token(self, value):
@@ -107,7 +113,7 @@ class PasswordResetSerializer(serializers.Serializer):
         try:
             user = get_user_model().objects.get(email=value)
             self.context["user"] = user
-        except user.DoesNotExist:
+        except User.DoesNotExist:
             raise serializers.ValidationError("User with this Email Doesn't exists")
         return value
 
@@ -150,6 +156,11 @@ class PasswordResetConfirmSerializer(serializers.Serializer):
 
         if not PasswordResetTokenGenerator().check_token(user, token):
             raise serializers.ValidationError("The token is invalid or expired.")
+
+        try:
+            validate_password(new_password, user=user)
+        except ValidationError as e:
+            raise serializers.ValidationError({"new_password": list(e.messages)})
 
         attrs["user"] = user
         return attrs

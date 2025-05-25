@@ -7,7 +7,7 @@ from rest_framework_simplejwt.tokens import RefreshToken
 from .serializers import (
     UserRegistrationSerializer,
     UserLoginSerializer,
-    LogoutSerializer,
+    UserLogoutSerializer,
     PasswordResetSerializer,
     PasswordResetConfirmSerializer,
 )
@@ -77,7 +77,7 @@ class UserLogoutView(APIView):
     permission_classes = [IsAuthenticated]
 
     def post(self, request):
-        serializer = LogoutSerializer(data=request.data)
+        serializer = UserLogoutSerializer(data=request.data)
         if serializer.is_valid():
             refresh_token = serializer.validated_data.get("refresh_token")
             try:
