@@ -7,11 +7,7 @@ from rest_framework_simplejwt.tokens import RefreshToken
 from .serializers import (
     UserRegistrationSerializer,
     UserLoginSerializer,
-<<<<<<< HEAD
-    LogoutSerializer,
-=======
     UserLogoutSerializer,
->>>>>>> users
     PasswordResetSerializer,
     PasswordResetConfirmSerializer,
 )
@@ -22,28 +18,17 @@ from django.utils.decorators import method_decorator
 
 @method_decorator(csrf_exempt, name="dispatch")
 class UserRegistrationView(APIView):
-<<<<<<< HEAD
-
-=======
->>>>>>> users
     permission_classes = [AllowAny]
 
     def post(self, request):
         serializer = UserRegistrationSerializer(data=request.data)
         if serializer.is_valid():
             user = serializer.save()
-<<<<<<< HEAD
-=======
-
->>>>>>> users
             # Generating JWT tokens
             refresh = RefreshToken.for_user(user)
             access_token = str(refresh.access_token)
             refresh_token = str(refresh)
-<<<<<<< HEAD
-=======
 
->>>>>>> users
             user_data = {
                 "username": user.username,
                 "email": user.email,
@@ -63,10 +48,6 @@ class UserRegistrationView(APIView):
                 },
                 status=status.HTTP_201_CREATED,
             )
-<<<<<<< HEAD
-=======
-
->>>>>>> users
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
 
 
@@ -94,11 +75,8 @@ class UserLogoutView(APIView):
     permission_classes = [IsAuthenticated]
 
     def post(self, request):
-<<<<<<< HEAD
-        serializer = LogoutSerializer(data=request.data)
-=======
+
         serializer = UserLogoutSerializer(data=request.data)
->>>>>>> users
         if serializer.is_valid():
             refresh_token = serializer.validated_data.get("refresh_token")
             try:
