@@ -85,10 +85,6 @@ WSGI_APPLICATION = "E_Commerce.wsgi.application"
 AUTHENTICATION_BACKENDS = [
     "django.contrib.auth.backends.ModelBackend",
 ]
-<<<<<<< HEAD
-=======
-
->>>>>>> development
 
 DATABASES = {
     "default": {

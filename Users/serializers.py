@@ -1,24 +1,16 @@
 from django.contrib.auth import get_user_model
 from rest_framework import serializers
 import re
-<<<<<<< HEAD
-
-from .models import CustomUser
-
-=======
->>>>>>> development
 from django.contrib.auth import authenticate
 from rest_framework_simplejwt.tokens import RefreshToken
 from django.contrib.auth.tokens import PasswordResetTokenGenerator
 from django.core.mail import send_mail
 from django.urls import reverse
-<<<<<<< HEAD
-=======
 from django.contrib.auth.password_validation import validate_password
 from django.core.exceptions import ValidationError
 
 User = get_user_model()
->>>>>>> development
+
 
 
 class UserRegistrationSerializer(serializers.ModelSerializer):
@@ -61,10 +53,6 @@ class UserRegistrationSerializer(serializers.ModelSerializer):
         # Check if email already exists
         if self.Meta.model.objects.filter(email=value).exists():
             raise serializers.ValidationError("This email is already taken.")
-<<<<<<< HEAD
-
-=======
->>>>>>> development
         return value
 
     def create(self, validated_data):
@@ -85,13 +73,9 @@ class UserLoginSerializer(serializers.Serializer):
         # Authenticate user
         user = authenticate(username=email, password=password)
         if user is None:
-<<<<<<< HEAD
-            raise serializers.ValidationError("Invalid email or password")
-=======
             raise serializers.ValidationError(
                 {"non_field_errors": ["Invalid email or password"]}
             )
->>>>>>> development
 
         # Generate tokens
         refresh = RefreshToken.for_user(user)
@@ -111,12 +95,8 @@ class UserLoginSerializer(serializers.Serializer):
         }
 
 
-<<<<<<< HEAD
-class LogoutSerializer(serializers.Serializer):
-=======
 class UserLogoutSerializer(serializers.Serializer):
 
->>>>>>> development
     refresh_token = serializers.CharField()
 
     def validate_refresh_token(self, value):
@@ -135,12 +115,9 @@ class PasswordResetSerializer(serializers.Serializer):
         try:
             user = get_user_model().objects.get(email=value)
             self.context["user"] = user
-<<<<<<< HEAD
-        except user.DoesNotExist:
-=======
+
 
         except User.DoesNotExist:
->>>>>>> development
             raise serializers.ValidationError("User with this Email Doesn't exists")
         return value
 
@@ -183,13 +160,10 @@ class PasswordResetConfirmSerializer(serializers.Serializer):
 
         if not PasswordResetTokenGenerator().check_token(user, token):
             raise serializers.ValidationError("The token is invalid or expired.")
-<<<<<<< HEAD
-=======
         try:
             validate_password(new_password, user=user)
         except ValidationError as e:
             raise serializers.ValidationError({"new_password": list(e.messages)})
->>>>>>> development
 
         attrs["user"] = user
         return attrs
