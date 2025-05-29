@@ -12,6 +12,10 @@ from django.core.exceptions import ValidationError
 User = get_user_model()
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> master
 class UserRegistrationSerializer(serializers.ModelSerializer):
     email = serializers.EmailField(required=True)
     username = serializers.CharField(required=True, max_length=150)
@@ -115,6 +119,10 @@ class PasswordResetSerializer(serializers.Serializer):
             user = get_user_model().objects.get(email=value)
             self.context["user"] = user
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> master
         except User.DoesNotExist:
             raise serializers.ValidationError("User with this Email Doesn't exists")
         return value
