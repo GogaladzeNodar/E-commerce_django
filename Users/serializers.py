@@ -12,6 +12,7 @@ from django.core.exceptions import ValidationError
 User = get_user_model()
 
 
+
 class UserRegistrationSerializer(serializers.ModelSerializer):
     email = serializers.EmailField(required=True)
     username = serializers.CharField(required=True, max_length=150)
