@@ -115,8 +115,6 @@ class PasswordResetSerializer(serializers.Serializer):
         try:
             user = get_user_model().objects.get(email=value)
             self.context["user"] = user
-
-
         except User.DoesNotExist:
             raise serializers.ValidationError("User with this Email Doesn't exists")
         return value
