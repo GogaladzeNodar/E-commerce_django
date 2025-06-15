@@ -1,7 +1,7 @@
 from django.db import models
 from django.forms import ValidationError
 from mptt.models import MPTTModel, TreeForeignKey, TreeManyToManyField
-from . import validators
+from Product import validators
 from core.mixins import CleanvalidateMixin
 
 
@@ -15,7 +15,7 @@ class Category(MPTTModel, CleanvalidateMixin):
         null=False,
         blank=False,
         verbose_name="Category Name",
-        validators=[validators.validate_min_length(3)],
+        validators=[validators.MinLengthValidator(3)],
     )
     slug = models.SlugField(
         unique=True,
@@ -60,7 +60,7 @@ class ProductType(CleanvalidateMixin, models.Model):
         max_length=100,
         unique=True,
         verbose_name="Product Type Name",
-        validators=[validators.validate_min_length(3)],
+        validators=[validators.MinLengthValidator(3)],
     )
     slug = models.SlugField(
         max_length=120,
@@ -94,7 +94,7 @@ class Tag(CleanvalidateMixin, models.Model):
         null=False,
         blank=False,
         verbose_name="Tag Name",
-        validators=[validators.validate_min_length(3)],
+        validators=[validators.MinLengthValidator(3)],
     )
     slug = models.SlugField(
         max_length=60, unique=True, validators=[validators.validate_slug]
@@ -125,7 +125,7 @@ class Product(CleanvalidateMixin, models.Model):
         null=False,
         blank=False,
         verbose_name="Product Name",
-        validators=[validators.validate_min_length(3)],
+        validators=[validators.MinLengthValidator(3)],
     )
     slug = models.SlugField(
         max_length=150,
@@ -206,7 +206,7 @@ class Attribute(CleanvalidateMixin, models.Model):
         null=False,
         blank=False,
         verbose_name="Attribute Name",
-        validators=[validators.validate_min_length(3)],
+        validators=[validators.MinLengthValidator(3)],
     )
     slug = models.SlugField(
         max_length=150,

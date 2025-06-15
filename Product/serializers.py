@@ -16,31 +16,21 @@ class BaseCategorySerializer(serializers.ModelSerializer):
     Provides basic fields and validation.
     """
 
+    name = serializers.CharField(validators=[validators.MinLengthValidator(3)])
+    slug = serializers.SlugField(validators=[validators.validate_slug])
+
     class Meta:
         model = Category
-        fields = ["id", "name", "slug", "is_active", "parent"]
-
-    def validate_name(self, value):
-        """
-        Validates that the category name is at least 3 characters long.
-        """
-        if len(value.strip()) < 3:
-            raise serializers.ValidationError(
-                "Category name must be at least 3 characters."
-            )
-        return value
-
-    def validate_slug(self, value):
-        """
-        Validates that the slug is valid according to the SLUG_PATTERN.
-        """
-        if " " in value:
-            raise serializers.ValidationError("Slug cannot contain spaces.")
-        if not re.match(SLUG_PATTERN, value):
-            raise serializers.ValidationError(
-                "Slug must contain only lowercase letters, numbers, hyphens or underscores."
-            )
-        return value
+        fields = [
+            "id",
+            "name",
+            "slug",
+            "is_active",
+            "parent",
+            "created_at",
+            "updated_at",
+        ]
+        read_only_fields = ["id", "created_at", "updated_at"]
 
     def validate_is_active(self, value):
         """
@@ -125,7 +115,7 @@ class ProductTypeSerializer(serializers.ModelSerializer):
     Serializer for ProductType model.
     """
 
-    name = serializers.CharField(validators=[validators.validate_min_length(3)])
+    name = serializers.CharField(validators=[validators.MinLengthValidator(3)])
     slug = serializers.SlugField(validators=[validators.validate_slug])
 
     class Meta:

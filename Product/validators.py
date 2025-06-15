@@ -30,13 +30,32 @@ def validate_slug(value):
         )
 
 
-def validate_min_length(min_length):
-    """
-    Validates that the given value has a minimum length.
-    """
+class MinLengthValidator:
+    def __init__(self, min_length):
+        self.min_length = min_length
 
-    def validator(value):
-        if len(value) < min_length:
+    def __call__(self, value):
+        if len(value) < self.min_length:
             raise ValidationError(
-                f"Value must be at least {min_length} characters long."
+                f"Value must be at least {self.min_length} characters long."
             )
+
+    def __eq__(self, other):
+        return (
+            isinstance(other, MinLengthValidator)
+            and self.min_length == other.min_length
+        )
+
+    def deconstruct(self):
+        """
+        This method tells Django how to serialize this validator into migration files.
+        It returns:
+        - path to the class
+        - positional arguments (tuple)
+        - keyword arguments (dict)
+        """
+        return (
+            "Product.validators.MinLengthValidator",  # full python import path to this class
+            (self.min_length,),  # args tuple
+            {},  # kwargs dict
+        )
