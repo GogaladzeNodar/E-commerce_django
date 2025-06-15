@@ -110,3 +110,9 @@ Notes
 All Django code runs inside the DevContainer (/app).
 Project files are mounted as volumes so live code changes reflect instantly.
 PostgreSQL is isolated from your host and talks to Django via internal Docker network.
+
+
+########################################################
+ER Diagram for Products app
+![alt text](Untitled.png)
+
