@@ -16,6 +16,9 @@ class Category(
     CaseInsensitiveUniqueMixin,
     MPTTModel,
 ):
+    """
+    Category table implimented with MPTT
+    """
 
     # PreventDeactivationIfUsedMixin
     @classmethod
