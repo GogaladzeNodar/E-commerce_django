@@ -37,3 +37,36 @@ class PreventDeactivationIfUsedMixin:
                     raise ValidationError(
                         f"Can't deactivate this object. {model_class.__name__} objects are using it."
                     )
+
+
+class CaseInsensitiveUniqueMixin:
+    """
+    Mixin to ensure a field is unique in a case-insensitive manner.
+    """
+
+    case_insensitive_unique_fileds = []
+
+    def clean(self):
+        super_clean = getattr(super(), "clean", None)
+        if callable(super_clean):
+            super_clean()
+
+        errors = {}
+
+        for field in self.case_insensitive_unique_fileds:
+            value = getattr(self, field, None)
+
+            if isinstance(value, str):
+                normalized = value.strip()
+
+                setattr(self, field, normalized)
+
+                qs = self.__class__.objects.exclude(pk=self.pk)
+                if qs.filter(**{f"{field}__iexact": normalized}).exists():
+                    errors[field] = ValidationError(
+                        f"{self.__class__.__name__} with this {field} already exists (case-insensitive check).",
+                        code="unique_case_insensitive",
+                    )
+
+        if errors:
+            raise ValidationError(errors)

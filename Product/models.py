@@ -2,19 +2,32 @@ from django.db import models
 from django.forms import ValidationError
 from mptt.models import MPTTModel, TreeForeignKey, TreeManyToManyField
 from Product import validators
-from core.mixins import CleanvalidateMixin, PreventDeactivationIfUsedMixin
+from core.mixins import (
+    CleanvalidateMixin,
+    PreventDeactivationIfUsedMixin,
+    CaseInsensitiveUniqueMixin,
+)
 from django.apps import apps
 
 
-class Category(MPTTModel, PreventDeactivationIfUsedMixin, CleanvalidateMixin):
+class Category(
+    PreventDeactivationIfUsedMixin,
+    CleanvalidateMixin,
+    CaseInsensitiveUniqueMixin,
+    MPTTModel,
+):
     """
     Category table implimented with MPTT
     """
 
+    # PreventDeactivationIfUsedMixin
     @classmethod
     def get_related_check(cls):
         Product = apps.get_model("Product", "Product")
         return [(Product, "categories")]
+
+    # CaseInsensitiveUniqueMixin
+    case_insensitive_unique_fileds = ["name"]
 
     name = models.CharField(
         max_length=100,
@@ -69,15 +82,24 @@ class Category(MPTTModel, PreventDeactivationIfUsedMixin, CleanvalidateMixin):
                 )
 
 
-class ProductType(PreventDeactivationIfUsedMixin, CleanvalidateMixin, models.Model):
+class ProductType(
+    CaseInsensitiveUniqueMixin,
+    PreventDeactivationIfUsedMixin,
+    CleanvalidateMixin,
+    models.Model,
+):
     """
     Product Type table
     """
 
+    # PreventDeactivationIfUsedMixin
     @classmethod
     def get_related_check(cls):
         Product = apps.get_model("Product", "Product")
         return [(Product, "product_type")]
+
+    # CaseInsensitiveUniqueMixin
+    case_insensitive_unique_fileds = ["name"]
 
     name = models.CharField(
         max_length=100,
@@ -106,10 +128,13 @@ class ProductType(PreventDeactivationIfUsedMixin, CleanvalidateMixin, models.Mod
         return self.name
 
 
-class Tag(CleanvalidateMixin, models.Model):
+class Tag(CaseInsensitiveUniqueMixin, CleanvalidateMixin, models.Model):
     """
     Tag table
     """
+
+    # CaseInsensitiveUniqueMixin
+    case_insensitive_unique_fileds = ["name"]
 
     name = models.CharField(
         max_length=50,
@@ -137,15 +162,24 @@ class Tag(CleanvalidateMixin, models.Model):
         return f"#{self.name}"
 
 
-class Product(PreventDeactivationIfUsedMixin, CleanvalidateMixin, models.Model):
+class Product(
+    CaseInsensitiveUniqueMixin,
+    PreventDeactivationIfUsedMixin,
+    CleanvalidateMixin,
+    models.Model,
+):
     """
     Product table
     """
 
+    # PreventDeactivationIfUsedMixin
     @classmethod
     def get_related_check(cls):
         ProductVariant = apps.get_model("Product", "ProductVariant")
         return [(ProductVariant, "product")]
+
+    # CaseInsensitiveUniqueMixin
+    case_insensitive_unique_fileds = ["name"]
 
     name = models.CharField(
         max_length=100,
@@ -198,10 +232,13 @@ class Product(PreventDeactivationIfUsedMixin, CleanvalidateMixin, models.Model):
         return self.name
 
 
-class Attribute(CleanvalidateMixin, models.Model):
+class Attribute(CaseInsensitiveUniqueMixin, CleanvalidateMixin, models.Model):
     """
     Attribute table
     """
+
+    # CaseInsensitiveUniqueMixin
+    case_insensitive_unique_fileds = ["name"]
 
     product_types = models.ManyToManyField(
         "ProductType",
