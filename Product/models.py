@@ -16,9 +16,6 @@ class Category(
     CaseInsensitiveUniqueMixin,
     MPTTModel,
 ):
-    """
-    Category table implimented with MPTT
-    """
 
     # PreventDeactivationIfUsedMixin
     @classmethod
@@ -231,25 +228,6 @@ class Product(
     def __str__(self):
         return self.name
 
-    def clean(self):
-        super().clean()
-        errors = {}
-
-        if self.product_type is None:
-            errors["product_type"] = "Product type is required."
-
-        if (
-            self.pk
-            and not self.is_active
-            and self.variants.filter(is_active=True).exists()
-        ):
-            errors["is_active"] = (
-                "Cannot deactivate a product that has active variants."
-            )
-
-        if errors:
-            raise ValidationError(errors)
-
 
 class Attribute(CaseInsensitiveUniqueMixin, CleanvalidateMixin, models.Model):
     """
@@ -328,7 +306,12 @@ class AttributeValue(CleanvalidateMixin, models.Model):
         verbose_name = "Attribute Value"
         verbose_name_plural = "Attribute Values"
         ordering = ["value"]
-        unique_together = ("attribute", "value")
+        constraints = [
+            models.UniqueConstraint(
+                fields=["attribute", "value"],
+                name="unique_attribute_value",
+            )
+        ]
 
     def __str__(self):
         return f"{self.attribute.name}: {self.value}"

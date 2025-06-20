@@ -30,7 +30,7 @@ class BaseCategorySerializer(serializers.ModelSerializer):
             "created_at",
             "updated_at",
         ]
-        read_only_fields = ["id", "created_at", "updated_at"]
+        read_only_fields = ["id", "slug", "created_at", "updated_at"]
 
     def validate_is_active(self, value):
         """
@@ -121,4 +121,21 @@ class ProductTypeSerializer(serializers.ModelSerializer):
     class Meta:
         model = ProductType
         fields = ["id", "name", "slug", "is_active", "created_at", "updated_at"]
-        read_only_fields = ["id", "created_at", "updated_at"]
+        read_only_fields = ["id", "slug", "created_at", "updated_at"]
+
+    def validate(self, attrs):
+        """
+        IF there is an active product parent product can't be deactivated.
+        IF there is an active product parent product can't be deleted.
+        """
+        is_active = attrs.get("is_active", True)
+        instance = self.instance
+
+        if instance and instance.is_active and not is_active:
+            has_active_products = Product.objects.filter(
+                product_type=instance, is_active=True
+            ).exists()
+            if has_active_products:
+                raise serializers.ValidationError(
+                    "Cannot deactivate ProductType with active products."
+                )
