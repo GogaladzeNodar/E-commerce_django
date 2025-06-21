@@ -2,13 +2,32 @@ from django.db import models
 from django.forms import ValidationError
 from mptt.models import MPTTModel, TreeForeignKey, TreeManyToManyField
 from Product import validators
-from core.mixins import CleanvalidateMixin
+from core.mixins import (
+    CleanvalidateMixin,
+    PreventDeactivationIfUsedMixin,
+    CaseInsensitiveUniqueMixin,
+)
+from django.apps import apps
 
 
-class Category(MPTTModel, CleanvalidateMixin):
+class Category(
+    PreventDeactivationIfUsedMixin,
+    CleanvalidateMixin,
+    CaseInsensitiveUniqueMixin,
+    MPTTModel,
+):
     """
     Category table implimented with MPTT
     """
+
+    # PreventDeactivationIfUsedMixin
+    @classmethod
+    def get_related_check(cls):
+        Product = apps.get_model("Product", "Product")
+        return [(Product, "categories")]
+
+    # CaseInsensitiveUniqueMixin
+    case_insensitive_unique_fileds = ["name"]
 
     name = models.CharField(
         max_length=100,
@@ -50,11 +69,37 @@ class Category(MPTTModel, CleanvalidateMixin):
     def __str__(self):
         return self.name
 
+    def clean(self):
+        super().clean()
 
-class ProductType(CleanvalidateMixin, models.Model):
+        if self.parent and self.parent == self:
+            raise ValidationError("Category cannot be its own parent.")
+
+        if self.parent and self.pk:
+            if self.parent in self.get_descendants():
+                raise ValidationError(
+                    "Category cannot be a child of its own descendant."
+                )
+
+
+class ProductType(
+    CaseInsensitiveUniqueMixin,
+    PreventDeactivationIfUsedMixin,
+    CleanvalidateMixin,
+    models.Model,
+):
     """
     Product Type table
     """
+
+    # PreventDeactivationIfUsedMixin
+    @classmethod
+    def get_related_check(cls):
+        Product = apps.get_model("Product", "Product")
+        return [(Product, "product_type")]
+
+    # CaseInsensitiveUniqueMixin
+    case_insensitive_unique_fileds = ["name"]
 
     name = models.CharField(
         max_length=100,
@@ -83,10 +128,13 @@ class ProductType(CleanvalidateMixin, models.Model):
         return self.name
 
 
-class Tag(CleanvalidateMixin, models.Model):
+class Tag(CaseInsensitiveUniqueMixin, CleanvalidateMixin, models.Model):
     """
     Tag table
     """
+
+    # CaseInsensitiveUniqueMixin
+    case_insensitive_unique_fileds = ["name"]
 
     name = models.CharField(
         max_length=50,
@@ -114,10 +162,24 @@ class Tag(CleanvalidateMixin, models.Model):
         return f"#{self.name}"
 
 
-class Product(CleanvalidateMixin, models.Model):
+class Product(
+    CaseInsensitiveUniqueMixin,
+    PreventDeactivationIfUsedMixin,
+    CleanvalidateMixin,
+    models.Model,
+):
     """
     Product table
     """
+
+    # PreventDeactivationIfUsedMixin
+    @classmethod
+    def get_related_check(cls):
+        ProductVariant = apps.get_model("Product", "ProductVariant")
+        return [(ProductVariant, "product")]
+
+    # CaseInsensitiveUniqueMixin
+    case_insensitive_unique_fileds = ["name"]
 
     name = models.CharField(
         max_length=100,
@@ -169,30 +231,14 @@ class Product(CleanvalidateMixin, models.Model):
     def __str__(self):
         return self.name
 
-    def clean(self):
-        super().clean()
-        errors = {}
 
-        if self.product_type is None:
-            errors["product_type"] = "Product type is required."
-
-        if (
-            self.pk
-            and not self.is_active
-            and self.variants.filter(is_active=True).exists()
-        ):
-            errors["is_active"] = (
-                "Cannot deactivate a product that has active variants."
-            )
-
-        if errors:
-            raise ValidationError(errors)
-
-
-class Attribute(CleanvalidateMixin, models.Model):
+class Attribute(CaseInsensitiveUniqueMixin, CleanvalidateMixin, models.Model):
     """
     Attribute table
     """
+
+    # CaseInsensitiveUniqueMixin
+    case_insensitive_unique_fileds = ["name"]
 
     product_types = models.ManyToManyField(
         "ProductType",
@@ -263,7 +309,12 @@ class AttributeValue(CleanvalidateMixin, models.Model):
         verbose_name = "Attribute Value"
         verbose_name_plural = "Attribute Values"
         ordering = ["value"]
-        unique_together = ("attribute", "value")
+        constraints = [
+            models.UniqueConstraint(
+                fields=["attribute", "value"],
+                name="unique_attribute_value",
+            )
+        ]
 
     def __str__(self):
         return f"{self.attribute.name}: {self.value}"
