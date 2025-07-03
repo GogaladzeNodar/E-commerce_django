@@ -39,6 +39,7 @@ class Category(
     slug = models.SlugField(
         unique=True,
         max_length=100,
+        blank=True,
         verbose_name="Category Slug",
         validators=[validators.validate_slug],
     )
@@ -110,6 +111,7 @@ class ProductType(
     slug = models.SlugField(
         max_length=120,
         unique=True,
+        blank=True,
         verbose_name="Product Type Slug",
         validators=[validators.validate_slug],
     )
@@ -145,7 +147,7 @@ class Tag(CaseInsensitiveUniqueMixin, CleanvalidateMixin, models.Model):
         validators=[validators.MinLengthValidator(3)],
     )
     slug = models.SlugField(
-        max_length=60, unique=True, validators=[validators.validate_slug]
+        max_length=60, unique=True, blank=True, validators=[validators.validate_slug]
     )
     created_at = models.DateTimeField(
         auto_now_add=True, editable=False, verbose_name="Created At"
@@ -193,7 +195,7 @@ class Product(
         max_length=150,
         unique=True,
         null=False,
-        blank=False,
+        blank=True,
         verbose_name="Product Slug",
         validators=[validators.validate_slug],
     )
@@ -258,7 +260,7 @@ class Attribute(CaseInsensitiveUniqueMixin, CleanvalidateMixin, models.Model):
         max_length=150,
         unique=True,
         null=False,
-        blank=False,
+        blank=True,
         verbose_name="Attribute Slug",
         validators=[validators.validate_slug],
     )
@@ -295,7 +297,7 @@ class AttributeValue(CleanvalidateMixin, models.Model):
         max_length=150,
         unique=True,
         null=False,
-        blank=False,
+        blank=True,
         verbose_name="Attribute Value Slug",
         validators=[validators.validate_slug],
     )
