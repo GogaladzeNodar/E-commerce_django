@@ -1,0 +1,552 @@
+[
+  {
+    "model": "Product.ProductType",
+    "pk": 1,
+    "fields": {
+      "name": "Son",
+      "slug": "son",
+      "is_active": true,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 2,
+    "fields": {
+      "name": "Enjoy",
+      "slug": "enjoy",
+      "is_active": false,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 3,
+    "fields": {
+      "name": "Explain",
+      "slug": "explain",
+      "is_active": true,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 4,
+    "fields": {
+      "name": "Commercial",
+      "slug": "commercial",
+      "is_active": false,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 5,
+    "fields": {
+      "name": "Seem",
+      "slug": "seem",
+      "is_active": true,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 6,
+    "fields": {
+      "name": "But",
+      "slug": "but",
+      "is_active": true,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 7,
+    "fields": {
+      "name": "Society",
+      "slug": "society",
+      "is_active": true,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 8,
+    "fields": {
+      "name": "Expert",
+      "slug": "expert",
+      "is_active": true,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 9,
+    "fields": {
+      "name": "Need",
+      "slug": "need",
+      "is_active": true,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 10,
+    "fields": {
+      "name": "Month",
+      "slug": "month",
+      "is_active": true,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 11,
+    "fields": {
+      "name": "Ago",
+      "slug": "ago",
+      "is_active": false,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 12,
+    "fields": {
+      "name": "Maybe",
+      "slug": "maybe",
+      "is_active": false,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 13,
+    "fields": {
+      "name": "Result",
+      "slug": "result",
+      "is_active": false,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 14,
+    "fields": {
+      "name": "Suggest",
+      "slug": "suggest",
+      "is_active": true,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 15,
+    "fields": {
+      "name": "Agency",
+      "slug": "agency",
+      "is_active": true,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 16,
+    "fields": {
+      "name": "Song",
+      "slug": "song",
+      "is_active": true,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 17,
+    "fields": {
+      "name": "Account",
+      "slug": "account",
+      "is_active": false,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 18,
+    "fields": {
+      "name": "Early",
+      "slug": "early",
+      "is_active": true,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 19,
+    "fields": {
+      "name": "Still",
+      "slug": "still",
+      "is_active": false,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 20,
+    "fields": {
+      "name": "Education",
+      "slug": "education",
+      "is_active": true,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 21,
+    "fields": {
+      "name": "Mind",
+      "slug": "mind",
+      "is_active": false,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 22,
+    "fields": {
+      "name": "Wish",
+      "slug": "wish",
+      "is_active": false,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 23,
+    "fields": {
+      "name": "Fish",
+      "slug": "fish",
+      "is_active": true,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 24,
+    "fields": {
+      "name": "Lay",
+      "slug": "lay",
+      "is_active": true,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 25,
+    "fields": {
+      "name": "Paper",
+      "slug": "paper",
+      "is_active": false,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 26,
+    "fields": {
+      "name": "Shake",
+      "slug": "shake",
+      "is_active": true,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 27,
+    "fields": {
+      "name": "Possible",
+      "slug": "possible",
+      "is_active": true,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 28,
+    "fields": {
+      "name": "Dinner",
+      "slug": "dinner",
+      "is_active": true,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 29,
+    "fields": {
+      "name": "Soldier",
+      "slug": "soldier",
+      "is_active": true,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 30,
+    "fields": {
+      "name": "Article",
+      "slug": "article",
+      "is_active": true,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 31,
+    "fields": {
+      "name": "Lawyer",
+      "slug": "lawyer",
+      "is_active": true,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 32,
+    "fields": {
+      "name": "Attack",
+      "slug": "attack",
+      "is_active": false,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 33,
+    "fields": {
+      "name": "Foot",
+      "slug": "foot",
+      "is_active": true,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 34,
+    "fields": {
+      "name": "Whole",
+      "slug": "whole",
+      "is_active": false,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 35,
+    "fields": {
+      "name": "Police",
+      "slug": "police",
+      "is_active": true,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 36,
+    "fields": {
+      "name": "Clear",
+      "slug": "clear",
+      "is_active": false,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 37,
+    "fields": {
+      "name": "Strategy",
+      "slug": "strategy",
+      "is_active": true,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 38,
+    "fields": {
+      "name": "Spend",
+      "slug": "spend",
+      "is_active": false,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 39,
+    "fields": {
+      "name": "Attorney",
+      "slug": "attorney",
+      "is_active": true,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 40,
+    "fields": {
+      "name": "Job",
+      "slug": "job",
+      "is_active": false,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 41,
+    "fields": {
+      "name": "Pick",
+      "slug": "pick",
+      "is_active": true,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 42,
+    "fields": {
+      "name": "Technology",
+      "slug": "technology",
+      "is_active": false,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 43,
+    "fields": {
+      "name": "Then",
+      "slug": "then",
+      "is_active": true,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 44,
+    "fields": {
+      "name": "Real",
+      "slug": "real",
+      "is_active": true,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 45,
+    "fields": {
+      "name": "Cold",
+      "slug": "cold",
+      "is_active": false,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 46,
+    "fields": {
+      "name": "Hand",
+      "slug": "hand",
+      "is_active": false,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 47,
+    "fields": {
+      "name": "Raise",
+      "slug": "raise",
+      "is_active": true,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 48,
+    "fields": {
+      "name": "World",
+      "slug": "world",
+      "is_active": true,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 49,
+    "fields": {
+      "name": "Religious",
+      "slug": "religious",
+      "is_active": true,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  },
+  {
+    "model": "Product.ProductType",
+    "pk": 50,
+    "fields": {
+      "name": "Major",
+      "slug": "major",
+      "is_active": true,
+      "created_at": "2025-07-07T18:08:51.757085Z",
+      "updated_at": "2025-07-07T18:08:51.757085Z"
+    }
+  }
+]

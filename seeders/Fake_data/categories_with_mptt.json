@@ -1,0 +1,146 @@
+[
+  {
+    "model": "Product.category",
+    "pk": 1,
+    "fields": {
+      "name": "History",
+      "slug": "history",
+      "is_active": true,
+      "parent": null,
+      "created_at": "2025-07-06T19:28:57.711174Z",
+      "updated_at": "2025-07-06T19:28:57.711174Z",
+      "lft": 1,
+      "rght": 6,
+      "tree_id": 1,
+      "mptt_level": 0
+    }
+  },
+  {
+    "model": "Product.category",
+    "pk": 2,
+    "fields": {
+      "name": "Film",
+      "slug": "film",
+      "is_active": true,
+      "parent": null,
+      "created_at": "2025-07-06T19:28:57.711174Z",
+      "updated_at": "2025-07-06T19:28:57.711174Z",
+      "lft": 7,
+      "rght": 12,
+      "tree_id": 1,
+      "mptt_level": 0
+    }
+  },
+  {
+    "model": "Product.category",
+    "pk": 3,
+    "fields": {
+      "name": "Three",
+      "slug": "three",
+      "is_active": true,
+      "parent": null,
+      "created_at": "2025-07-06T19:28:57.711174Z",
+      "updated_at": "2025-07-06T19:28:57.711174Z",
+      "lft": 13,
+      "rght": 18,
+      "tree_id": 1,
+      "mptt_level": 0
+    }
+  },
+  {
+    "model": "Product.category",
+    "pk": 4,
+    "fields": {
+      "name": "Story",
+      "slug": "story",
+      "is_active": true,
+      "parent": 1,
+      "created_at": "2025-07-06T19:28:57.711174Z",
+      "updated_at": "2025-07-06T19:28:57.711174Z",
+      "lft": 2,
+      "rght": 3,
+      "tree_id": 1,
+      "mptt_level": 1
+    }
+  },
+  {
+    "model": "Product.category",
+    "pk": 5,
+    "fields": {
+      "name": "Nice",
+      "slug": "nice",
+      "is_active": true,
+      "parent": 1,
+      "created_at": "2025-07-06T19:28:57.711174Z",
+      "updated_at": "2025-07-06T19:28:57.711174Z",
+      "lft": 4,
+      "rght": 5,
+      "tree_id": 1,
+      "mptt_level": 1
+    }
+  },
+  {
+    "model": "Product.category",
+    "pk": 6,
+    "fields": {
+      "name": "Act",
+      "slug": "act",
+      "is_active": true,
+      "parent": 2,
+      "created_at": "2025-07-06T19:28:57.711174Z",
+      "updated_at": "2025-07-06T19:28:57.711174Z",
+      "lft": 8,
+      "rght": 9,
+      "tree_id": 1,
+      "mptt_level": 1
+    }
+  },
+  {
+    "model": "Product.category",
+    "pk": 7,
+    "fields": {
+      "name": "Nation",
+      "slug": "nation",
+      "is_active": true,
+      "parent": 2,
+      "created_at": "2025-07-06T19:28:57.711174Z",
+      "updated_at": "2025-07-06T19:28:57.711174Z",
+      "lft": 10,
+      "rght": 11,
+      "tree_id": 1,
+      "mptt_level": 1
+    }
+  },
+  {
+    "model": "Product.category",
+    "pk": 8,
+    "fields": {
+      "name": "Top",
+      "slug": "top",
+      "is_active": true,
+      "parent": 3,
+      "created_at": "2025-07-06T19:28:57.711174Z",
+      "updated_at": "2025-07-06T19:28:57.711174Z",
+      "lft": 14,
+      "rght": 15,
+      "tree_id": 1,
+      "mptt_level": 1
+    }
+  },
+  {
+    "model": "Product.category",
+    "pk": 9,
+    "fields": {
+      "name": "Measure",
+      "slug": "measure",
+      "is_active": true,
+      "parent": 3,
+      "created_at": "2025-07-06T19:28:57.711174Z",
+      "updated_at": "2025-07-06T19:28:57.711174Z",
+      "lft": 16,
+      "rght": 17,
+      "tree_id": 1,
+      "mptt_level": 1
+    }
+  }
+]

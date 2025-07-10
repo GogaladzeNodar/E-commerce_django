@@ -1,0 +1,182 @@
+[
+  {
+    "pk": 1,
+    "model": "Product.attribute",
+    "fields": {
+      "name": "Hit",
+      "slug": "hit",
+      "description": "Determine to fine add hospital player end. Anyone system trial.\nCase red pay relationship. Itself although music trouble live. Serve their subject military but wish.",
+      "is_filterable": true,
+      "created_at": "2025-07-10T17:54:02.266115Z",
+      "updated_at": "2025-07-10T17:54:02.266115Z"
+    }
+  },
+  {
+    "pk": 2,
+    "model": "Product.attribute",
+    "fields": {
+      "name": "Star",
+      "slug": "star",
+      "description": "Seven central himself campaign north present girl. Cell one three produce. Star middle hard simply.\nTv thought forward kid customer low. Type party operation actually until policy week.",
+      "is_filterable": false,
+      "created_at": "2025-07-10T17:54:02.266115Z",
+      "updated_at": "2025-07-10T17:54:02.266115Z"
+    }
+  },
+  {
+    "pk": 3,
+    "model": "Product.attribute",
+    "fields": {
+      "name": "Model",
+      "slug": "model",
+      "description": "Professional rise situation skill situation claim group. Control quickly act maintain.",
+      "is_filterable": true,
+      "created_at": "2025-07-10T17:54:02.266115Z",
+      "updated_at": "2025-07-10T17:54:02.266115Z"
+    }
+  },
+  {
+    "pk": 4,
+    "model": "Product.attribute",
+    "fields": {
+      "name": "Question",
+      "slug": "question",
+      "description": "Since class voice end whom.\nOpportunity including by message. Although maintain soon recognize record investment.",
+      "is_filterable": true,
+      "created_at": "2025-07-10T17:54:02.266115Z",
+      "updated_at": "2025-07-10T17:54:02.266115Z"
+    }
+  },
+  {
+    "pk": 5,
+    "model": "Product.attribute",
+    "fields": {
+      "name": "While",
+      "slug": "while",
+      "description": "Once lay he wish need. Hour less officer state manage agency benefit.\nSkill determine example street mind. Fund above say. Truth official lawyer laugh develop despite them.",
+      "is_filterable": false,
+      "created_at": "2025-07-10T17:54:02.266115Z",
+      "updated_at": "2025-07-10T17:54:02.266115Z"
+    }
+  },
+  {
+    "pk": 6,
+    "model": "Product.attribute",
+    "fields": {
+      "name": "Physical",
+      "slug": "physical",
+      "description": "Modern cut foreign glass think. Right tax anything again yard sell cover. Prevent ability field thus over to.\nOver administration surface whether popular pretty doctor.",
+      "is_filterable": true,
+      "created_at": "2025-07-10T17:54:02.266115Z",
+      "updated_at": "2025-07-10T17:54:02.266115Z"
+    }
+  },
+  {
+    "pk": 7,
+    "model": "Product.attribute",
+    "fields": {
+      "name": "Response",
+      "slug": "response",
+      "description": "Player parent first serious would example.\nFall appear turn be thousand deal. Box garden per power. Send yes attorney chair response bar.\nSell prepare find ahead lead. Blue ball country list.",
+      "is_filterable": false,
+      "created_at": "2025-07-10T17:54:02.266115Z",
+      "updated_at": "2025-07-10T17:54:02.266115Z"
+    }
+  },
+  {
+    "pk": 8,
+    "model": "Product.attribute",
+    "fields": {
+      "name": "Oil",
+      "slug": "oil",
+      "description": "Them serious for. Know trouble practice military rather top.\nInterview most financial factor though edge animal skin. Risk paper data follow three through market.",
+      "is_filterable": true,
+      "created_at": "2025-07-10T17:54:02.266115Z",
+      "updated_at": "2025-07-10T17:54:02.266115Z"
+    }
+  },
+  {
+    "pk": 9,
+    "model": "Product.attribute",
+    "fields": {
+      "name": "Your",
+      "slug": "your",
+      "description": "Third attack top there peace actually school resource. Rise space wish through hold today.\nEdge Republican box address at quite country. Officer only quickly total race.",
+      "is_filterable": false,
+      "created_at": "2025-07-10T17:54:02.266115Z",
+      "updated_at": "2025-07-10T17:54:02.266115Z"
+    }
+  },
+  {
+    "pk": 10,
+    "model": "Product.attribute",
+    "fields": {
+      "name": "Material",
+      "slug": "material",
+      "description": "Early million available everyone thus require. Fire clear here for information. Same against push something.\nLife film Congress true onto trouble give. Future out give lot church lay little.",
+      "is_filterable": true,
+      "created_at": "2025-07-10T17:54:02.266115Z",
+      "updated_at": "2025-07-10T17:54:02.266115Z"
+    }
+  },
+  {
+    "pk": 11,
+    "model": "Product.attribute",
+    "fields": {
+      "name": "Under",
+      "slug": "under",
+      "description": "Trouble industry movement. Laugh husband he sing. Create risk walk feeling often.\nMeeting perhaps everybody some. How including those fact. Everybody each radio loss sea.",
+      "is_filterable": false,
+      "created_at": "2025-07-10T17:54:02.266115Z",
+      "updated_at": "2025-07-10T17:54:02.266115Z"
+    }
+  },
+  {
+    "pk": 12,
+    "model": "Product.attribute",
+    "fields": {
+      "name": "Improve",
+      "slug": "improve",
+      "description": "Learn employee floor house dream last if parent. But happen everybody word to easy.\nCard matter sit about customer purpose process.\nCheck central skin according form.",
+      "is_filterable": false,
+      "created_at": "2025-07-10T17:54:02.266115Z",
+      "updated_at": "2025-07-10T17:54:02.266115Z"
+    }
+  },
+  {
+    "pk": 13,
+    "model": "Product.attribute",
+    "fields": {
+      "name": "Teacher",
+      "slug": "teacher",
+      "description": "Data production claim low help civil. Leader also others body itself result matter not. Parent remain power east person.\nSame travel to seem. Of kind tax throughout. Avoid until national with.",
+      "is_filterable": false,
+      "created_at": "2025-07-10T17:54:02.266115Z",
+      "updated_at": "2025-07-10T17:54:02.266115Z"
+    }
+  },
+  {
+    "pk": 14,
+    "model": "Product.attribute",
+    "fields": {
+      "name": "Of",
+      "slug": "of",
+      "description": "Despite a subject condition. Start product song production.\nTreat goal fish hard none modern. Seek idea cell you myself. Mention traditional range difficult late high.",
+      "is_filterable": false,
+      "created_at": "2025-07-10T17:54:02.266115Z",
+      "updated_at": "2025-07-10T17:54:02.266115Z"
+    }
+  },
+  {
+    "pk": 15,
+    "model": "Product.attribute",
+    "fields": {
+      "name": "Stuff",
+      "slug": "stuff",
+      "description": "Feel door stock memory education war sell ready. Dinner evidence particular and tell debate.",
+      "is_filterable": true,
+      "created_at": "2025-07-10T17:54:02.266115Z",
+      "updated_at": "2025-07-10T17:54:02.266115Z"
+    }
+  }
+]

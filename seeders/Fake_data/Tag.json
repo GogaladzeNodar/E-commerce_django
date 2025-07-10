@@ -1,0 +1,222 @@
+[
+  {
+    "model": "Product.Tag",
+    "pk": 1,
+    "fields": {
+      "name": "Government",
+      "slug": "government",
+      "is_active": true,
+      "created_at": "2025-07-07T18:40:11.714069Z",
+      "updated_at": "2025-07-07T18:40:11.714069Z"
+    }
+  },
+  {
+    "model": "Product.Tag",
+    "pk": 2,
+    "fields": {
+      "name": "Space",
+      "slug": "space",
+      "is_active": true,
+      "created_at": "2025-07-07T18:40:11.714069Z",
+      "updated_at": "2025-07-07T18:40:11.714069Z"
+    }
+  },
+  {
+    "model": "Product.Tag",
+    "pk": 3,
+    "fields": {
+      "name": "Per",
+      "slug": "per",
+      "is_active": false,
+      "created_at": "2025-07-07T18:40:11.714069Z",
+      "updated_at": "2025-07-07T18:40:11.714069Z"
+    }
+  },
+  {
+    "model": "Product.Tag",
+    "pk": 4,
+    "fields": {
+      "name": "High",
+      "slug": "high",
+      "is_active": true,
+      "created_at": "2025-07-07T18:40:11.714069Z",
+      "updated_at": "2025-07-07T18:40:11.714069Z"
+    }
+  },
+  {
+    "model": "Product.Tag",
+    "pk": 5,
+    "fields": {
+      "name": "Yourself",
+      "slug": "yourself",
+      "is_active": false,
+      "created_at": "2025-07-07T18:40:11.714069Z",
+      "updated_at": "2025-07-07T18:40:11.714069Z"
+    }
+  },
+  {
+    "model": "Product.Tag",
+    "pk": 6,
+    "fields": {
+      "name": "By",
+      "slug": "by",
+      "is_active": true,
+      "created_at": "2025-07-07T18:40:11.714069Z",
+      "updated_at": "2025-07-07T18:40:11.714069Z"
+    }
+  },
+  {
+    "model": "Product.Tag",
+    "pk": 7,
+    "fields": {
+      "name": "Hospital",
+      "slug": "hospital",
+      "is_active": true,
+      "created_at": "2025-07-07T18:40:11.714069Z",
+      "updated_at": "2025-07-07T18:40:11.714069Z"
+    }
+  },
+  {
+    "model": "Product.Tag",
+    "pk": 8,
+    "fields": {
+      "name": "History",
+      "slug": "history",
+      "is_active": true,
+      "created_at": "2025-07-07T18:40:11.714069Z",
+      "updated_at": "2025-07-07T18:40:11.714069Z"
+    }
+  },
+  {
+    "model": "Product.Tag",
+    "pk": 9,
+    "fields": {
+      "name": "Animal",
+      "slug": "animal",
+      "is_active": false,
+      "created_at": "2025-07-07T18:40:11.714069Z",
+      "updated_at": "2025-07-07T18:40:11.714069Z"
+    }
+  },
+  {
+    "model": "Product.Tag",
+    "pk": 10,
+    "fields": {
+      "name": "Help",
+      "slug": "help",
+      "is_active": false,
+      "created_at": "2025-07-07T18:40:11.714069Z",
+      "updated_at": "2025-07-07T18:40:11.714069Z"
+    }
+  },
+  {
+    "model": "Product.Tag",
+    "pk": 11,
+    "fields": {
+      "name": "Late",
+      "slug": "late",
+      "is_active": true,
+      "created_at": "2025-07-07T18:40:11.714069Z",
+      "updated_at": "2025-07-07T18:40:11.714069Z"
+    }
+  },
+  {
+    "model": "Product.Tag",
+    "pk": 12,
+    "fields": {
+      "name": "Only",
+      "slug": "only",
+      "is_active": true,
+      "created_at": "2025-07-07T18:40:11.714069Z",
+      "updated_at": "2025-07-07T18:40:11.714069Z"
+    }
+  },
+  {
+    "model": "Product.Tag",
+    "pk": 13,
+    "fields": {
+      "name": "Gas",
+      "slug": "gas",
+      "is_active": true,
+      "created_at": "2025-07-07T18:40:11.714069Z",
+      "updated_at": "2025-07-07T18:40:11.714069Z"
+    }
+  },
+  {
+    "model": "Product.Tag",
+    "pk": 14,
+    "fields": {
+      "name": "Cause",
+      "slug": "cause",
+      "is_active": true,
+      "created_at": "2025-07-07T18:40:11.714069Z",
+      "updated_at": "2025-07-07T18:40:11.714069Z"
+    }
+  },
+  {
+    "model": "Product.Tag",
+    "pk": 15,
+    "fields": {
+      "name": "Little",
+      "slug": "little",
+      "is_active": false,
+      "created_at": "2025-07-07T18:40:11.714069Z",
+      "updated_at": "2025-07-07T18:40:11.714069Z"
+    }
+  },
+  {
+    "model": "Product.Tag",
+    "pk": 16,
+    "fields": {
+      "name": "Certainly",
+      "slug": "certainly",
+      "is_active": false,
+      "created_at": "2025-07-07T18:40:11.714069Z",
+      "updated_at": "2025-07-07T18:40:11.714069Z"
+    }
+  },
+  {
+    "model": "Product.Tag",
+    "pk": 17,
+    "fields": {
+      "name": "Bad",
+      "slug": "bad",
+      "is_active": false,
+      "created_at": "2025-07-07T18:40:11.714069Z",
+      "updated_at": "2025-07-07T18:40:11.714069Z"
+    }
+  },
+  {
+    "model": "Product.Tag",
+    "pk": 18,
+    "fields": {
+      "name": "Scientist",
+      "slug": "scientist",
+      "is_active": true,
+      "created_at": "2025-07-07T18:40:11.714069Z",
+      "updated_at": "2025-07-07T18:40:11.714069Z"
+    }
+  },
+  {
+    "model": "Product.Tag",
+    "pk": 19,
+    "fields": {
+      "name": "Whatever",
+      "slug": "whatever",
+      "is_active": false,
+      "created_at": "2025-07-07T18:40:11.714069Z",
+      "updated_at": "2025-07-07T18:40:11.714069Z"
+    }
+  },
+  {
+    "model": "Product.Tag",
+    "pk": 20,
+    "fields": {
+      "name": "Relationship",
+      "slug": "relationship",
+      "is_active": true,
+      "created_at": "2025-07-07T18:40:11.714069Z",
+      "updated_at": "2025-07-07T18:40:11.714069Z"
+    }
+  }
+]

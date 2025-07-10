@@ -1,0 +1,4204 @@
+[
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 1,
+    "fields": {
+      "variant": 194,
+      "attribute": 15,
+      "attribute_value": 33,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 2,
+    "fields": {
+      "variant": 89,
+      "attribute": 2,
+      "attribute_value": 21,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 3,
+    "fields": {
+      "variant": 126,
+      "attribute": 13,
+      "attribute_value": 15,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 4,
+    "fields": {
+      "variant": 10,
+      "attribute": 5,
+      "attribute_value": 47,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 5,
+    "fields": {
+      "variant": 102,
+      "attribute": 12,
+      "attribute_value": 17,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 6,
+    "fields": {
+      "variant": 28,
+      "attribute": 14,
+      "attribute_value": 16,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 7,
+    "fields": {
+      "variant": 29,
+      "attribute": 11,
+      "attribute_value": 7,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 8,
+    "fields": {
+      "variant": 92,
+      "attribute": 15,
+      "attribute_value": 38,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 9,
+    "fields": {
+      "variant": 85,
+      "attribute": 1,
+      "attribute_value": 19,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 10,
+    "fields": {
+      "variant": 103,
+      "attribute": 6,
+      "attribute_value": 49,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 11,
+    "fields": {
+      "variant": 97,
+      "attribute": 1,
+      "attribute_value": 14,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 12,
+    "fields": {
+      "variant": 164,
+      "attribute": 6,
+      "attribute_value": 3,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 13,
+    "fields": {
+      "variant": 117,
+      "attribute": 15,
+      "attribute_value": 38,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 14,
+    "fields": {
+      "variant": 190,
+      "attribute": 7,
+      "attribute_value": 10,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 15,
+    "fields": {
+      "variant": 19,
+      "attribute": 15,
+      "attribute_value": 42,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 16,
+    "fields": {
+      "variant": 173,
+      "attribute": 3,
+      "attribute_value": 40,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 17,
+    "fields": {
+      "variant": 177,
+      "attribute": 11,
+      "attribute_value": 13,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 18,
+    "fields": {
+      "variant": 161,
+      "attribute": 12,
+      "attribute_value": 46,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 19,
+    "fields": {
+      "variant": 2,
+      "attribute": 14,
+      "attribute_value": 38,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 20,
+    "fields": {
+      "variant": 118,
+      "attribute": 6,
+      "attribute_value": 12,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 21,
+    "fields": {
+      "variant": 14,
+      "attribute": 10,
+      "attribute_value": 42,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 22,
+    "fields": {
+      "variant": 16,
+      "attribute": 5,
+      "attribute_value": 48,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 23,
+    "fields": {
+      "variant": 21,
+      "attribute": 13,
+      "attribute_value": 18,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 24,
+    "fields": {
+      "variant": 32,
+      "attribute": 10,
+      "attribute_value": 32,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 25,
+    "fields": {
+      "variant": 96,
+      "attribute": 9,
+      "attribute_value": 30,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 26,
+    "fields": {
+      "variant": 1,
+      "attribute": 11,
+      "attribute_value": 16,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 27,
+    "fields": {
+      "variant": 189,
+      "attribute": 9,
+      "attribute_value": 28,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 28,
+    "fields": {
+      "variant": 146,
+      "attribute": 14,
+      "attribute_value": 13,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 29,
+    "fields": {
+      "variant": 69,
+      "attribute": 2,
+      "attribute_value": 13,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 30,
+    "fields": {
+      "variant": 127,
+      "attribute": 15,
+      "attribute_value": 25,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 31,
+    "fields": {
+      "variant": 142,
+      "attribute": 14,
+      "attribute_value": 26,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 32,
+    "fields": {
+      "variant": 162,
+      "attribute": 7,
+      "attribute_value": 41,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 33,
+    "fields": {
+      "variant": 120,
+      "attribute": 8,
+      "attribute_value": 18,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 34,
+    "fields": {
+      "variant": 120,
+      "attribute": 6,
+      "attribute_value": 21,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 35,
+    "fields": {
+      "variant": 13,
+      "attribute": 11,
+      "attribute_value": 48,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 36,
+    "fields": {
+      "variant": 129,
+      "attribute": 9,
+      "attribute_value": 18,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 37,
+    "fields": {
+      "variant": 181,
+      "attribute": 15,
+      "attribute_value": 23,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 38,
+    "fields": {
+      "variant": 20,
+      "attribute": 4,
+      "attribute_value": 43,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 39,
+    "fields": {
+      "variant": 179,
+      "attribute": 6,
+      "attribute_value": 23,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 40,
+    "fields": {
+      "variant": 154,
+      "attribute": 3,
+      "attribute_value": 14,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 41,
+    "fields": {
+      "variant": 74,
+      "attribute": 4,
+      "attribute_value": 31,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 42,
+    "fields": {
+      "variant": 79,
+      "attribute": 2,
+      "attribute_value": 48,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 43,
+    "fields": {
+      "variant": 177,
+      "attribute": 15,
+      "attribute_value": 17,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 44,
+    "fields": {
+      "variant": 121,
+      "attribute": 8,
+      "attribute_value": 19,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 45,
+    "fields": {
+      "variant": 193,
+      "attribute": 4,
+      "attribute_value": 6,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 46,
+    "fields": {
+      "variant": 103,
+      "attribute": 5,
+      "attribute_value": 48,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 47,
+    "fields": {
+      "variant": 159,
+      "attribute": 14,
+      "attribute_value": 40,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 48,
+    "fields": {
+      "variant": 170,
+      "attribute": 10,
+      "attribute_value": 12,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 49,
+    "fields": {
+      "variant": 48,
+      "attribute": 6,
+      "attribute_value": 31,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 50,
+    "fields": {
+      "variant": 123,
+      "attribute": 9,
+      "attribute_value": 36,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 51,
+    "fields": {
+      "variant": 114,
+      "attribute": 13,
+      "attribute_value": 35,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 52,
+    "fields": {
+      "variant": 163,
+      "attribute": 13,
+      "attribute_value": 31,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 53,
+    "fields": {
+      "variant": 88,
+      "attribute": 9,
+      "attribute_value": 32,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 54,
+    "fields": {
+      "variant": 153,
+      "attribute": 15,
+      "attribute_value": 49,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 55,
+    "fields": {
+      "variant": 153,
+      "attribute": 10,
+      "attribute_value": 50,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 56,
+    "fields": {
+      "variant": 197,
+      "attribute": 15,
+      "attribute_value": 45,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 57,
+    "fields": {
+      "variant": 73,
+      "attribute": 14,
+      "attribute_value": 3,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 58,
+    "fields": {
+      "variant": 9,
+      "attribute": 3,
+      "attribute_value": 27,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 59,
+    "fields": {
+      "variant": 14,
+      "attribute": 4,
+      "attribute_value": 41,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 60,
+    "fields": {
+      "variant": 115,
+      "attribute": 8,
+      "attribute_value": 7,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 61,
+    "fields": {
+      "variant": 4,
+      "attribute": 8,
+      "attribute_value": 22,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 62,
+    "fields": {
+      "variant": 11,
+      "attribute": 10,
+      "attribute_value": 39,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 63,
+    "fields": {
+      "variant": 109,
+      "attribute": 8,
+      "attribute_value": 50,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 64,
+    "fields": {
+      "variant": 87,
+      "attribute": 13,
+      "attribute_value": 19,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 65,
+    "fields": {
+      "variant": 122,
+      "attribute": 9,
+      "attribute_value": 26,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 66,
+    "fields": {
+      "variant": 29,
+      "attribute": 3,
+      "attribute_value": 10,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 67,
+    "fields": {
+      "variant": 64,
+      "attribute": 1,
+      "attribute_value": 28,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 68,
+    "fields": {
+      "variant": 179,
+      "attribute": 4,
+      "attribute_value": 25,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 69,
+    "fields": {
+      "variant": 67,
+      "attribute": 1,
+      "attribute_value": 30,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 70,
+    "fields": {
+      "variant": 158,
+      "attribute": 10,
+      "attribute_value": 25,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 71,
+    "fields": {
+      "variant": 82,
+      "attribute": 14,
+      "attribute_value": 11,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 72,
+    "fields": {
+      "variant": 95,
+      "attribute": 4,
+      "attribute_value": 16,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 73,
+    "fields": {
+      "variant": 158,
+      "attribute": 15,
+      "attribute_value": 15,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 74,
+    "fields": {
+      "variant": 125,
+      "attribute": 6,
+      "attribute_value": 29,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 75,
+    "fields": {
+      "variant": 71,
+      "attribute": 1,
+      "attribute_value": 21,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 76,
+    "fields": {
+      "variant": 127,
+      "attribute": 11,
+      "attribute_value": 13,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 77,
+    "fields": {
+      "variant": 165,
+      "attribute": 15,
+      "attribute_value": 47,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 78,
+    "fields": {
+      "variant": 198,
+      "attribute": 6,
+      "attribute_value": 18,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 79,
+    "fields": {
+      "variant": 55,
+      "attribute": 3,
+      "attribute_value": 11,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 80,
+    "fields": {
+      "variant": 184,
+      "attribute": 14,
+      "attribute_value": 25,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 81,
+    "fields": {
+      "variant": 65,
+      "attribute": 14,
+      "attribute_value": 49,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 82,
+    "fields": {
+      "variant": 172,
+      "attribute": 7,
+      "attribute_value": 34,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 83,
+    "fields": {
+      "variant": 113,
+      "attribute": 4,
+      "attribute_value": 32,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 84,
+    "fields": {
+      "variant": 144,
+      "attribute": 8,
+      "attribute_value": 12,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 85,
+    "fields": {
+      "variant": 51,
+      "attribute": 3,
+      "attribute_value": 43,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 86,
+    "fields": {
+      "variant": 13,
+      "attribute": 3,
+      "attribute_value": 21,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 87,
+    "fields": {
+      "variant": 173,
+      "attribute": 5,
+      "attribute_value": 6,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 88,
+    "fields": {
+      "variant": 33,
+      "attribute": 7,
+      "attribute_value": 33,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 89,
+    "fields": {
+      "variant": 110,
+      "attribute": 4,
+      "attribute_value": 43,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 90,
+    "fields": {
+      "variant": 82,
+      "attribute": 11,
+      "attribute_value": 2,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 91,
+    "fields": {
+      "variant": 125,
+      "attribute": 3,
+      "attribute_value": 10,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 92,
+    "fields": {
+      "variant": 48,
+      "attribute": 11,
+      "attribute_value": 45,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 93,
+    "fields": {
+      "variant": 153,
+      "attribute": 12,
+      "attribute_value": 3,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 94,
+    "fields": {
+      "variant": 26,
+      "attribute": 7,
+      "attribute_value": 42,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 95,
+    "fields": {
+      "variant": 66,
+      "attribute": 8,
+      "attribute_value": 19,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 96,
+    "fields": {
+      "variant": 14,
+      "attribute": 12,
+      "attribute_value": 7,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 97,
+    "fields": {
+      "variant": 85,
+      "attribute": 13,
+      "attribute_value": 41,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 98,
+    "fields": {
+      "variant": 159,
+      "attribute": 11,
+      "attribute_value": 23,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 99,
+    "fields": {
+      "variant": 54,
+      "attribute": 8,
+      "attribute_value": 33,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 100,
+    "fields": {
+      "variant": 61,
+      "attribute": 6,
+      "attribute_value": 43,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 101,
+    "fields": {
+      "variant": 106,
+      "attribute": 3,
+      "attribute_value": 23,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 102,
+    "fields": {
+      "variant": 26,
+      "attribute": 5,
+      "attribute_value": 2,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 103,
+    "fields": {
+      "variant": 142,
+      "attribute": 11,
+      "attribute_value": 9,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 104,
+    "fields": {
+      "variant": 183,
+      "attribute": 10,
+      "attribute_value": 18,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 105,
+    "fields": {
+      "variant": 75,
+      "attribute": 8,
+      "attribute_value": 32,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 106,
+    "fields": {
+      "variant": 197,
+      "attribute": 11,
+      "attribute_value": 15,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 107,
+    "fields": {
+      "variant": 70,
+      "attribute": 12,
+      "attribute_value": 36,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 108,
+    "fields": {
+      "variant": 12,
+      "attribute": 9,
+      "attribute_value": 35,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 109,
+    "fields": {
+      "variant": 8,
+      "attribute": 1,
+      "attribute_value": 47,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 110,
+    "fields": {
+      "variant": 123,
+      "attribute": 1,
+      "attribute_value": 15,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 111,
+    "fields": {
+      "variant": 31,
+      "attribute": 1,
+      "attribute_value": 12,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 112,
+    "fields": {
+      "variant": 71,
+      "attribute": 2,
+      "attribute_value": 43,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 113,
+    "fields": {
+      "variant": 199,
+      "attribute": 6,
+      "attribute_value": 50,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 114,
+    "fields": {
+      "variant": 116,
+      "attribute": 13,
+      "attribute_value": 50,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 115,
+    "fields": {
+      "variant": 198,
+      "attribute": 13,
+      "attribute_value": 33,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 116,
+    "fields": {
+      "variant": 184,
+      "attribute": 6,
+      "attribute_value": 32,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 117,
+    "fields": {
+      "variant": 149,
+      "attribute": 13,
+      "attribute_value": 31,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 118,
+    "fields": {
+      "variant": 152,
+      "attribute": 2,
+      "attribute_value": 36,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 119,
+    "fields": {
+      "variant": 64,
+      "attribute": 14,
+      "attribute_value": 10,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 120,
+    "fields": {
+      "variant": 104,
+      "attribute": 5,
+      "attribute_value": 32,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 121,
+    "fields": {
+      "variant": 166,
+      "attribute": 4,
+      "attribute_value": 32,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 122,
+    "fields": {
+      "variant": 2,
+      "attribute": 6,
+      "attribute_value": 21,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 123,
+    "fields": {
+      "variant": 90,
+      "attribute": 3,
+      "attribute_value": 6,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 124,
+    "fields": {
+      "variant": 127,
+      "attribute": 5,
+      "attribute_value": 42,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 125,
+    "fields": {
+      "variant": 46,
+      "attribute": 13,
+      "attribute_value": 14,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 126,
+    "fields": {
+      "variant": 22,
+      "attribute": 11,
+      "attribute_value": 7,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 127,
+    "fields": {
+      "variant": 93,
+      "attribute": 1,
+      "attribute_value": 17,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 128,
+    "fields": {
+      "variant": 125,
+      "attribute": 7,
+      "attribute_value": 12,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 129,
+    "fields": {
+      "variant": 141,
+      "attribute": 9,
+      "attribute_value": 36,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 130,
+    "fields": {
+      "variant": 61,
+      "attribute": 3,
+      "attribute_value": 39,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 131,
+    "fields": {
+      "variant": 192,
+      "attribute": 13,
+      "attribute_value": 4,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 132,
+    "fields": {
+      "variant": 184,
+      "attribute": 4,
+      "attribute_value": 3,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 133,
+    "fields": {
+      "variant": 181,
+      "attribute": 8,
+      "attribute_value": 25,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 134,
+    "fields": {
+      "variant": 127,
+      "attribute": 2,
+      "attribute_value": 36,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 135,
+    "fields": {
+      "variant": 60,
+      "attribute": 15,
+      "attribute_value": 28,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 136,
+    "fields": {
+      "variant": 117,
+      "attribute": 2,
+      "attribute_value": 2,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 137,
+    "fields": {
+      "variant": 185,
+      "attribute": 9,
+      "attribute_value": 9,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 138,
+    "fields": {
+      "variant": 36,
+      "attribute": 10,
+      "attribute_value": 1,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 139,
+    "fields": {
+      "variant": 43,
+      "attribute": 8,
+      "attribute_value": 20,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 140,
+    "fields": {
+      "variant": 47,
+      "attribute": 10,
+      "attribute_value": 12,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 141,
+    "fields": {
+      "variant": 126,
+      "attribute": 10,
+      "attribute_value": 27,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 142,
+    "fields": {
+      "variant": 32,
+      "attribute": 8,
+      "attribute_value": 29,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 143,
+    "fields": {
+      "variant": 117,
+      "attribute": 8,
+      "attribute_value": 11,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 144,
+    "fields": {
+      "variant": 100,
+      "attribute": 12,
+      "attribute_value": 35,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 145,
+    "fields": {
+      "variant": 76,
+      "attribute": 12,
+      "attribute_value": 14,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 146,
+    "fields": {
+      "variant": 98,
+      "attribute": 15,
+      "attribute_value": 38,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 147,
+    "fields": {
+      "variant": 119,
+      "attribute": 9,
+      "attribute_value": 25,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 148,
+    "fields": {
+      "variant": 76,
+      "attribute": 14,
+      "attribute_value": 12,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 149,
+    "fields": {
+      "variant": 165,
+      "attribute": 8,
+      "attribute_value": 9,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 150,
+    "fields": {
+      "variant": 34,
+      "attribute": 9,
+      "attribute_value": 10,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 151,
+    "fields": {
+      "variant": 9,
+      "attribute": 11,
+      "attribute_value": 41,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 152,
+    "fields": {
+      "variant": 156,
+      "attribute": 1,
+      "attribute_value": 14,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 153,
+    "fields": {
+      "variant": 13,
+      "attribute": 13,
+      "attribute_value": 13,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 154,
+    "fields": {
+      "variant": 87,
+      "attribute": 2,
+      "attribute_value": 6,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 155,
+    "fields": {
+      "variant": 82,
+      "attribute": 3,
+      "attribute_value": 13,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 156,
+    "fields": {
+      "variant": 125,
+      "attribute": 14,
+      "attribute_value": 13,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 157,
+    "fields": {
+      "variant": 57,
+      "attribute": 5,
+      "attribute_value": 29,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 158,
+    "fields": {
+      "variant": 134,
+      "attribute": 9,
+      "attribute_value": 30,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 159,
+    "fields": {
+      "variant": 169,
+      "attribute": 12,
+      "attribute_value": 6,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 160,
+    "fields": {
+      "variant": 13,
+      "attribute": 12,
+      "attribute_value": 32,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 161,
+    "fields": {
+      "variant": 172,
+      "attribute": 10,
+      "attribute_value": 44,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 162,
+    "fields": {
+      "variant": 11,
+      "attribute": 13,
+      "attribute_value": 15,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 163,
+    "fields": {
+      "variant": 185,
+      "attribute": 2,
+      "attribute_value": 34,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 164,
+    "fields": {
+      "variant": 123,
+      "attribute": 15,
+      "attribute_value": 14,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 165,
+    "fields": {
+      "variant": 94,
+      "attribute": 14,
+      "attribute_value": 37,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 166,
+    "fields": {
+      "variant": 21,
+      "attribute": 4,
+      "attribute_value": 48,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 167,
+    "fields": {
+      "variant": 78,
+      "attribute": 3,
+      "attribute_value": 25,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 168,
+    "fields": {
+      "variant": 195,
+      "attribute": 7,
+      "attribute_value": 49,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 169,
+    "fields": {
+      "variant": 143,
+      "attribute": 6,
+      "attribute_value": 35,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 170,
+    "fields": {
+      "variant": 154,
+      "attribute": 14,
+      "attribute_value": 42,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 171,
+    "fields": {
+      "variant": 107,
+      "attribute": 15,
+      "attribute_value": 42,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 172,
+    "fields": {
+      "variant": 16,
+      "attribute": 2,
+      "attribute_value": 39,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 173,
+    "fields": {
+      "variant": 21,
+      "attribute": 10,
+      "attribute_value": 14,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 174,
+    "fields": {
+      "variant": 122,
+      "attribute": 5,
+      "attribute_value": 44,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 175,
+    "fields": {
+      "variant": 90,
+      "attribute": 6,
+      "attribute_value": 28,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 176,
+    "fields": {
+      "variant": 69,
+      "attribute": 6,
+      "attribute_value": 45,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 177,
+    "fields": {
+      "variant": 29,
+      "attribute": 6,
+      "attribute_value": 32,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 178,
+    "fields": {
+      "variant": 152,
+      "attribute": 1,
+      "attribute_value": 44,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 179,
+    "fields": {
+      "variant": 176,
+      "attribute": 2,
+      "attribute_value": 26,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 180,
+    "fields": {
+      "variant": 30,
+      "attribute": 1,
+      "attribute_value": 33,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 181,
+    "fields": {
+      "variant": 130,
+      "attribute": 5,
+      "attribute_value": 4,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 182,
+    "fields": {
+      "variant": 163,
+      "attribute": 9,
+      "attribute_value": 18,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 183,
+    "fields": {
+      "variant": 68,
+      "attribute": 6,
+      "attribute_value": 39,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 184,
+    "fields": {
+      "variant": 28,
+      "attribute": 2,
+      "attribute_value": 37,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 185,
+    "fields": {
+      "variant": 29,
+      "attribute": 15,
+      "attribute_value": 37,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 186,
+    "fields": {
+      "variant": 186,
+      "attribute": 3,
+      "attribute_value": 47,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 187,
+    "fields": {
+      "variant": 62,
+      "attribute": 5,
+      "attribute_value": 43,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 188,
+    "fields": {
+      "variant": 1,
+      "attribute": 10,
+      "attribute_value": 9,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 189,
+    "fields": {
+      "variant": 137,
+      "attribute": 14,
+      "attribute_value": 45,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 190,
+    "fields": {
+      "variant": 142,
+      "attribute": 1,
+      "attribute_value": 10,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 191,
+    "fields": {
+      "variant": 65,
+      "attribute": 9,
+      "attribute_value": 6,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 192,
+    "fields": {
+      "variant": 60,
+      "attribute": 11,
+      "attribute_value": 41,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 193,
+    "fields": {
+      "variant": 37,
+      "attribute": 2,
+      "attribute_value": 41,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 194,
+    "fields": {
+      "variant": 22,
+      "attribute": 1,
+      "attribute_value": 46,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 195,
+    "fields": {
+      "variant": 115,
+      "attribute": 6,
+      "attribute_value": 6,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 196,
+    "fields": {
+      "variant": 171,
+      "attribute": 11,
+      "attribute_value": 47,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 197,
+    "fields": {
+      "variant": 24,
+      "attribute": 4,
+      "attribute_value": 8,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 198,
+    "fields": {
+      "variant": 67,
+      "attribute": 6,
+      "attribute_value": 24,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 199,
+    "fields": {
+      "variant": 20,
+      "attribute": 12,
+      "attribute_value": 31,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 200,
+    "fields": {
+      "variant": 41,
+      "attribute": 10,
+      "attribute_value": 43,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 201,
+    "fields": {
+      "variant": 79,
+      "attribute": 1,
+      "attribute_value": 2,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 202,
+    "fields": {
+      "variant": 61,
+      "attribute": 5,
+      "attribute_value": 44,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 203,
+    "fields": {
+      "variant": 183,
+      "attribute": 9,
+      "attribute_value": 17,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 204,
+    "fields": {
+      "variant": 74,
+      "attribute": 10,
+      "attribute_value": 50,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 205,
+    "fields": {
+      "variant": 155,
+      "attribute": 15,
+      "attribute_value": 46,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 206,
+    "fields": {
+      "variant": 149,
+      "attribute": 6,
+      "attribute_value": 29,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 207,
+    "fields": {
+      "variant": 85,
+      "attribute": 7,
+      "attribute_value": 30,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 208,
+    "fields": {
+      "variant": 29,
+      "attribute": 12,
+      "attribute_value": 1,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 209,
+    "fields": {
+      "variant": 144,
+      "attribute": 11,
+      "attribute_value": 5,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 210,
+    "fields": {
+      "variant": 56,
+      "attribute": 2,
+      "attribute_value": 13,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 211,
+    "fields": {
+      "variant": 183,
+      "attribute": 5,
+      "attribute_value": 1,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 212,
+    "fields": {
+      "variant": 167,
+      "attribute": 8,
+      "attribute_value": 26,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 213,
+    "fields": {
+      "variant": 108,
+      "attribute": 2,
+      "attribute_value": 30,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 214,
+    "fields": {
+      "variant": 194,
+      "attribute": 3,
+      "attribute_value": 7,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 215,
+    "fields": {
+      "variant": 108,
+      "attribute": 7,
+      "attribute_value": 45,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 216,
+    "fields": {
+      "variant": 69,
+      "attribute": 7,
+      "attribute_value": 26,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 217,
+    "fields": {
+      "variant": 24,
+      "attribute": 11,
+      "attribute_value": 10,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 218,
+    "fields": {
+      "variant": 185,
+      "attribute": 1,
+      "attribute_value": 22,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 219,
+    "fields": {
+      "variant": 89,
+      "attribute": 15,
+      "attribute_value": 29,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 220,
+    "fields": {
+      "variant": 162,
+      "attribute": 10,
+      "attribute_value": 4,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 221,
+    "fields": {
+      "variant": 7,
+      "attribute": 11,
+      "attribute_value": 30,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 222,
+    "fields": {
+      "variant": 1,
+      "attribute": 1,
+      "attribute_value": 25,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 223,
+    "fields": {
+      "variant": 74,
+      "attribute": 5,
+      "attribute_value": 16,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 224,
+    "fields": {
+      "variant": 155,
+      "attribute": 7,
+      "attribute_value": 47,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 225,
+    "fields": {
+      "variant": 106,
+      "attribute": 12,
+      "attribute_value": 3,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 226,
+    "fields": {
+      "variant": 98,
+      "attribute": 2,
+      "attribute_value": 27,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 227,
+    "fields": {
+      "variant": 113,
+      "attribute": 14,
+      "attribute_value": 23,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 228,
+    "fields": {
+      "variant": 112,
+      "attribute": 12,
+      "attribute_value": 14,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 229,
+    "fields": {
+      "variant": 144,
+      "attribute": 14,
+      "attribute_value": 47,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 230,
+    "fields": {
+      "variant": 165,
+      "attribute": 5,
+      "attribute_value": 28,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 231,
+    "fields": {
+      "variant": 26,
+      "attribute": 6,
+      "attribute_value": 46,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 232,
+    "fields": {
+      "variant": 8,
+      "attribute": 2,
+      "attribute_value": 16,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 233,
+    "fields": {
+      "variant": 62,
+      "attribute": 7,
+      "attribute_value": 4,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 234,
+    "fields": {
+      "variant": 132,
+      "attribute": 5,
+      "attribute_value": 15,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 235,
+    "fields": {
+      "variant": 101,
+      "attribute": 15,
+      "attribute_value": 26,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 236,
+    "fields": {
+      "variant": 116,
+      "attribute": 15,
+      "attribute_value": 39,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 237,
+    "fields": {
+      "variant": 195,
+      "attribute": 8,
+      "attribute_value": 14,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 238,
+    "fields": {
+      "variant": 29,
+      "attribute": 7,
+      "attribute_value": 25,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 239,
+    "fields": {
+      "variant": 69,
+      "attribute": 5,
+      "attribute_value": 30,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 240,
+    "fields": {
+      "variant": 168,
+      "attribute": 3,
+      "attribute_value": 26,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 241,
+    "fields": {
+      "variant": 109,
+      "attribute": 14,
+      "attribute_value": 42,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 242,
+    "fields": {
+      "variant": 153,
+      "attribute": 1,
+      "attribute_value": 17,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 243,
+    "fields": {
+      "variant": 134,
+      "attribute": 13,
+      "attribute_value": 3,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 244,
+    "fields": {
+      "variant": 59,
+      "attribute": 1,
+      "attribute_value": 21,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 245,
+    "fields": {
+      "variant": 191,
+      "attribute": 10,
+      "attribute_value": 15,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 246,
+    "fields": {
+      "variant": 95,
+      "attribute": 8,
+      "attribute_value": 25,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 247,
+    "fields": {
+      "variant": 74,
+      "attribute": 3,
+      "attribute_value": 16,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 248,
+    "fields": {
+      "variant": 176,
+      "attribute": 3,
+      "attribute_value": 12,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 249,
+    "fields": {
+      "variant": 87,
+      "attribute": 14,
+      "attribute_value": 32,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 250,
+    "fields": {
+      "variant": 164,
+      "attribute": 8,
+      "attribute_value": 33,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 251,
+    "fields": {
+      "variant": 191,
+      "attribute": 13,
+      "attribute_value": 26,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 252,
+    "fields": {
+      "variant": 158,
+      "attribute": 9,
+      "attribute_value": 23,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 253,
+    "fields": {
+      "variant": 150,
+      "attribute": 15,
+      "attribute_value": 13,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 254,
+    "fields": {
+      "variant": 182,
+      "attribute": 2,
+      "attribute_value": 37,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 255,
+    "fields": {
+      "variant": 105,
+      "attribute": 15,
+      "attribute_value": 25,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 256,
+    "fields": {
+      "variant": 129,
+      "attribute": 12,
+      "attribute_value": 7,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 257,
+    "fields": {
+      "variant": 135,
+      "attribute": 13,
+      "attribute_value": 1,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 258,
+    "fields": {
+      "variant": 139,
+      "attribute": 7,
+      "attribute_value": 39,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 259,
+    "fields": {
+      "variant": 142,
+      "attribute": 8,
+      "attribute_value": 17,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 260,
+    "fields": {
+      "variant": 169,
+      "attribute": 9,
+      "attribute_value": 5,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 261,
+    "fields": {
+      "variant": 107,
+      "attribute": 11,
+      "attribute_value": 41,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 262,
+    "fields": {
+      "variant": 147,
+      "attribute": 12,
+      "attribute_value": 13,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 263,
+    "fields": {
+      "variant": 197,
+      "attribute": 5,
+      "attribute_value": 32,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 264,
+    "fields": {
+      "variant": 74,
+      "attribute": 6,
+      "attribute_value": 22,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 265,
+    "fields": {
+      "variant": 175,
+      "attribute": 15,
+      "attribute_value": 24,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 266,
+    "fields": {
+      "variant": 85,
+      "attribute": 11,
+      "attribute_value": 18,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 267,
+    "fields": {
+      "variant": 68,
+      "attribute": 5,
+      "attribute_value": 44,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 268,
+    "fields": {
+      "variant": 196,
+      "attribute": 15,
+      "attribute_value": 25,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 269,
+    "fields": {
+      "variant": 172,
+      "attribute": 11,
+      "attribute_value": 17,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 270,
+    "fields": {
+      "variant": 169,
+      "attribute": 4,
+      "attribute_value": 11,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 271,
+    "fields": {
+      "variant": 80,
+      "attribute": 13,
+      "attribute_value": 17,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 272,
+    "fields": {
+      "variant": 10,
+      "attribute": 3,
+      "attribute_value": 17,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 273,
+    "fields": {
+      "variant": 93,
+      "attribute": 3,
+      "attribute_value": 38,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 274,
+    "fields": {
+      "variant": 110,
+      "attribute": 7,
+      "attribute_value": 50,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 275,
+    "fields": {
+      "variant": 58,
+      "attribute": 3,
+      "attribute_value": 8,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 276,
+    "fields": {
+      "variant": 43,
+      "attribute": 10,
+      "attribute_value": 26,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 277,
+    "fields": {
+      "variant": 89,
+      "attribute": 13,
+      "attribute_value": 14,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 278,
+    "fields": {
+      "variant": 102,
+      "attribute": 11,
+      "attribute_value": 13,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 279,
+    "fields": {
+      "variant": 22,
+      "attribute": 8,
+      "attribute_value": 5,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 280,
+    "fields": {
+      "variant": 165,
+      "attribute": 7,
+      "attribute_value": 23,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 281,
+    "fields": {
+      "variant": 142,
+      "attribute": 13,
+      "attribute_value": 28,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 282,
+    "fields": {
+      "variant": 40,
+      "attribute": 12,
+      "attribute_value": 20,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 283,
+    "fields": {
+      "variant": 145,
+      "attribute": 15,
+      "attribute_value": 9,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 284,
+    "fields": {
+      "variant": 75,
+      "attribute": 12,
+      "attribute_value": 50,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 285,
+    "fields": {
+      "variant": 135,
+      "attribute": 12,
+      "attribute_value": 48,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 286,
+    "fields": {
+      "variant": 144,
+      "attribute": 7,
+      "attribute_value": 17,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 287,
+    "fields": {
+      "variant": 73,
+      "attribute": 10,
+      "attribute_value": 16,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 288,
+    "fields": {
+      "variant": 153,
+      "attribute": 4,
+      "attribute_value": 17,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 289,
+    "fields": {
+      "variant": 122,
+      "attribute": 11,
+      "attribute_value": 43,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 290,
+    "fields": {
+      "variant": 178,
+      "attribute": 13,
+      "attribute_value": 36,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 291,
+    "fields": {
+      "variant": 85,
+      "attribute": 2,
+      "attribute_value": 2,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 292,
+    "fields": {
+      "variant": 44,
+      "attribute": 8,
+      "attribute_value": 35,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 293,
+    "fields": {
+      "variant": 72,
+      "attribute": 12,
+      "attribute_value": 9,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 294,
+    "fields": {
+      "variant": 22,
+      "attribute": 13,
+      "attribute_value": 13,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 295,
+    "fields": {
+      "variant": 45,
+      "attribute": 2,
+      "attribute_value": 5,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 296,
+    "fields": {
+      "variant": 186,
+      "attribute": 10,
+      "attribute_value": 30,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 297,
+    "fields": {
+      "variant": 157,
+      "attribute": 7,
+      "attribute_value": 13,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 298,
+    "fields": {
+      "variant": 16,
+      "attribute": 3,
+      "attribute_value": 11,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 299,
+    "fields": {
+      "variant": 57,
+      "attribute": 6,
+      "attribute_value": 28,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 300,
+    "fields": {
+      "variant": 189,
+      "attribute": 4,
+      "attribute_value": 30,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 301,
+    "fields": {
+      "variant": 133,
+      "attribute": 10,
+      "attribute_value": 6,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 302,
+    "fields": {
+      "variant": 88,
+      "attribute": 12,
+      "attribute_value": 19,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 303,
+    "fields": {
+      "variant": 154,
+      "attribute": 2,
+      "attribute_value": 12,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 304,
+    "fields": {
+      "variant": 118,
+      "attribute": 8,
+      "attribute_value": 27,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 305,
+    "fields": {
+      "variant": 179,
+      "attribute": 1,
+      "attribute_value": 31,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 306,
+    "fields": {
+      "variant": 107,
+      "attribute": 8,
+      "attribute_value": 17,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 307,
+    "fields": {
+      "variant": 50,
+      "attribute": 3,
+      "attribute_value": 16,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 308,
+    "fields": {
+      "variant": 8,
+      "attribute": 14,
+      "attribute_value": 30,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 309,
+    "fields": {
+      "variant": 61,
+      "attribute": 10,
+      "attribute_value": 18,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 310,
+    "fields": {
+      "variant": 20,
+      "attribute": 5,
+      "attribute_value": 2,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 311,
+    "fields": {
+      "variant": 140,
+      "attribute": 4,
+      "attribute_value": 6,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 312,
+    "fields": {
+      "variant": 145,
+      "attribute": 8,
+      "attribute_value": 1,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 313,
+    "fields": {
+      "variant": 60,
+      "attribute": 12,
+      "attribute_value": 16,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 314,
+    "fields": {
+      "variant": 165,
+      "attribute": 6,
+      "attribute_value": 1,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 315,
+    "fields": {
+      "variant": 71,
+      "attribute": 10,
+      "attribute_value": 49,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 316,
+    "fields": {
+      "variant": 33,
+      "attribute": 9,
+      "attribute_value": 6,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 317,
+    "fields": {
+      "variant": 19,
+      "attribute": 4,
+      "attribute_value": 37,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 318,
+    "fields": {
+      "variant": 74,
+      "attribute": 8,
+      "attribute_value": 4,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 319,
+    "fields": {
+      "variant": 200,
+      "attribute": 1,
+      "attribute_value": 20,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 320,
+    "fields": {
+      "variant": 39,
+      "attribute": 12,
+      "attribute_value": 40,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 321,
+    "fields": {
+      "variant": 195,
+      "attribute": 2,
+      "attribute_value": 11,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 322,
+    "fields": {
+      "variant": 105,
+      "attribute": 2,
+      "attribute_value": 32,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 323,
+    "fields": {
+      "variant": 52,
+      "attribute": 15,
+      "attribute_value": 21,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 324,
+    "fields": {
+      "variant": 45,
+      "attribute": 8,
+      "attribute_value": 22,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 325,
+    "fields": {
+      "variant": 159,
+      "attribute": 6,
+      "attribute_value": 47,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 326,
+    "fields": {
+      "variant": 190,
+      "attribute": 10,
+      "attribute_value": 10,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 327,
+    "fields": {
+      "variant": 53,
+      "attribute": 13,
+      "attribute_value": 13,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 328,
+    "fields": {
+      "variant": 103,
+      "attribute": 9,
+      "attribute_value": 26,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 329,
+    "fields": {
+      "variant": 154,
+      "attribute": 1,
+      "attribute_value": 49,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 330,
+    "fields": {
+      "variant": 45,
+      "attribute": 12,
+      "attribute_value": 3,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 331,
+    "fields": {
+      "variant": 88,
+      "attribute": 6,
+      "attribute_value": 38,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 332,
+    "fields": {
+      "variant": 17,
+      "attribute": 11,
+      "attribute_value": 40,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 333,
+    "fields": {
+      "variant": 189,
+      "attribute": 15,
+      "attribute_value": 41,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 334,
+    "fields": {
+      "variant": 195,
+      "attribute": 1,
+      "attribute_value": 45,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 335,
+    "fields": {
+      "variant": 126,
+      "attribute": 5,
+      "attribute_value": 44,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 336,
+    "fields": {
+      "variant": 65,
+      "attribute": 6,
+      "attribute_value": 50,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 337,
+    "fields": {
+      "variant": 152,
+      "attribute": 3,
+      "attribute_value": 10,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 338,
+    "fields": {
+      "variant": 43,
+      "attribute": 2,
+      "attribute_value": 49,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 339,
+    "fields": {
+      "variant": 33,
+      "attribute": 8,
+      "attribute_value": 39,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 340,
+    "fields": {
+      "variant": 179,
+      "attribute": 8,
+      "attribute_value": 2,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 341,
+    "fields": {
+      "variant": 112,
+      "attribute": 4,
+      "attribute_value": 15,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 342,
+    "fields": {
+      "variant": 147,
+      "attribute": 10,
+      "attribute_value": 19,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 343,
+    "fields": {
+      "variant": 9,
+      "attribute": 8,
+      "attribute_value": 46,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 344,
+    "fields": {
+      "variant": 163,
+      "attribute": 10,
+      "attribute_value": 16,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 345,
+    "fields": {
+      "variant": 67,
+      "attribute": 11,
+      "attribute_value": 48,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 346,
+    "fields": {
+      "variant": 98,
+      "attribute": 4,
+      "attribute_value": 26,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 347,
+    "fields": {
+      "variant": 20,
+      "attribute": 9,
+      "attribute_value": 39,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 348,
+    "fields": {
+      "variant": 35,
+      "attribute": 11,
+      "attribute_value": 6,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 349,
+    "fields": {
+      "variant": 75,
+      "attribute": 7,
+      "attribute_value": 23,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 350,
+    "fields": {
+      "variant": 2,
+      "attribute": 5,
+      "attribute_value": 38,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 351,
+    "fields": {
+      "variant": 149,
+      "attribute": 2,
+      "attribute_value": 44,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 352,
+    "fields": {
+      "variant": 188,
+      "attribute": 10,
+      "attribute_value": 13,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 353,
+    "fields": {
+      "variant": 198,
+      "attribute": 12,
+      "attribute_value": 46,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 354,
+    "fields": {
+      "variant": 53,
+      "attribute": 9,
+      "attribute_value": 34,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 355,
+    "fields": {
+      "variant": 79,
+      "attribute": 15,
+      "attribute_value": 21,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 356,
+    "fields": {
+      "variant": 26,
+      "attribute": 13,
+      "attribute_value": 17,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 357,
+    "fields": {
+      "variant": 67,
+      "attribute": 8,
+      "attribute_value": 1,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 358,
+    "fields": {
+      "variant": 21,
+      "attribute": 11,
+      "attribute_value": 23,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 359,
+    "fields": {
+      "variant": 45,
+      "attribute": 4,
+      "attribute_value": 7,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 360,
+    "fields": {
+      "variant": 184,
+      "attribute": 8,
+      "attribute_value": 21,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 361,
+    "fields": {
+      "variant": 92,
+      "attribute": 14,
+      "attribute_value": 31,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 362,
+    "fields": {
+      "variant": 40,
+      "attribute": 2,
+      "attribute_value": 50,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 363,
+    "fields": {
+      "variant": 119,
+      "attribute": 11,
+      "attribute_value": 50,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 364,
+    "fields": {
+      "variant": 154,
+      "attribute": 4,
+      "attribute_value": 4,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 365,
+    "fields": {
+      "variant": 43,
+      "attribute": 12,
+      "attribute_value": 49,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 366,
+    "fields": {
+      "variant": 170,
+      "attribute": 7,
+      "attribute_value": 15,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 367,
+    "fields": {
+      "variant": 52,
+      "attribute": 6,
+      "attribute_value": 13,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 368,
+    "fields": {
+      "variant": 186,
+      "attribute": 2,
+      "attribute_value": 22,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 369,
+    "fields": {
+      "variant": 141,
+      "attribute": 13,
+      "attribute_value": 12,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 370,
+    "fields": {
+      "variant": 173,
+      "attribute": 13,
+      "attribute_value": 26,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 371,
+    "fields": {
+      "variant": 163,
+      "attribute": 14,
+      "attribute_value": 17,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 372,
+    "fields": {
+      "variant": 40,
+      "attribute": 3,
+      "attribute_value": 21,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 373,
+    "fields": {
+      "variant": 8,
+      "attribute": 12,
+      "attribute_value": 31,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 374,
+    "fields": {
+      "variant": 7,
+      "attribute": 1,
+      "attribute_value": 2,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 375,
+    "fields": {
+      "variant": 10,
+      "attribute": 8,
+      "attribute_value": 28,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 376,
+    "fields": {
+      "variant": 175,
+      "attribute": 10,
+      "attribute_value": 47,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 377,
+    "fields": {
+      "variant": 9,
+      "attribute": 6,
+      "attribute_value": 38,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 378,
+    "fields": {
+      "variant": 92,
+      "attribute": 8,
+      "attribute_value": 35,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 379,
+    "fields": {
+      "variant": 39,
+      "attribute": 1,
+      "attribute_value": 1,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 380,
+    "fields": {
+      "variant": 160,
+      "attribute": 7,
+      "attribute_value": 26,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 381,
+    "fields": {
+      "variant": 1,
+      "attribute": 4,
+      "attribute_value": 50,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariantAttributeValue",
+    "pk": 382,
+    "fields": {
+      "variant": 192,
+      "attribute": 10,
+      "attribute_value": 22,
+      "created_at": "2025-07-10T19:44:24.035493Z",
+      "updated_at": "2025-07-10T19:44:24.035493Z"
+    }
+  }
+]
