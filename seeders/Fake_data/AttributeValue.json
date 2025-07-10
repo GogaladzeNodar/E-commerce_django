@@ -1,0 +1,552 @@
+[
+  {
+    "model": "Product.AttributeValue",
+    "pk": 1,
+    "fields": {
+      "value": "Family",
+      "slug": "family",
+      "attribute": 8,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 2,
+    "fields": {
+      "value": "Significant",
+      "slug": "significant",
+      "attribute": 6,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 3,
+    "fields": {
+      "value": "Data",
+      "slug": "data",
+      "attribute": 8,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 4,
+    "fields": {
+      "value": "Professional",
+      "slug": "professional",
+      "attribute": 2,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 5,
+    "fields": {
+      "value": "Because",
+      "slug": "because",
+      "attribute": 10,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 6,
+    "fields": {
+      "value": "Likely",
+      "slug": "likely",
+      "attribute": 9,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 7,
+    "fields": {
+      "value": "Year",
+      "slug": "year",
+      "attribute": 1,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 8,
+    "fields": {
+      "value": "The",
+      "slug": "the",
+      "attribute": 11,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 9,
+    "fields": {
+      "value": "Employee",
+      "slug": "employee",
+      "attribute": 5,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 10,
+    "fields": {
+      "value": "Week",
+      "slug": "week",
+      "attribute": 15,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 11,
+    "fields": {
+      "value": "Nice",
+      "slug": "nice",
+      "attribute": 9,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 12,
+    "fields": {
+      "value": "Notice",
+      "slug": "notice",
+      "attribute": 14,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 13,
+    "fields": {
+      "value": "Arm",
+      "slug": "arm",
+      "attribute": 14,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 14,
+    "fields": {
+      "value": "Of",
+      "slug": "of",
+      "attribute": 13,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 15,
+    "fields": {
+      "value": "Force",
+      "slug": "force",
+      "attribute": 10,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 16,
+    "fields": {
+      "value": "Number",
+      "slug": "number",
+      "attribute": 14,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 17,
+    "fields": {
+      "value": "Major",
+      "slug": "major",
+      "attribute": 6,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 18,
+    "fields": {
+      "value": "Especially",
+      "slug": "especially",
+      "attribute": 13,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 19,
+    "fields": {
+      "value": "Travel",
+      "slug": "travel",
+      "attribute": 12,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 20,
+    "fields": {
+      "value": "East",
+      "slug": "east",
+      "attribute": 2,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 21,
+    "fields": {
+      "value": "Act",
+      "slug": "act",
+      "attribute": 13,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 22,
+    "fields": {
+      "value": "Win",
+      "slug": "win",
+      "attribute": 9,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 23,
+    "fields": {
+      "value": "Ok",
+      "slug": "ok",
+      "attribute": 9,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 24,
+    "fields": {
+      "value": "Two",
+      "slug": "two",
+      "attribute": 14,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 25,
+    "fields": {
+      "value": "Financial",
+      "slug": "financial",
+      "attribute": 13,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 26,
+    "fields": {
+      "value": "Back",
+      "slug": "back",
+      "attribute": 13,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 27,
+    "fields": {
+      "value": "Magazine",
+      "slug": "magazine",
+      "attribute": 7,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 28,
+    "fields": {
+      "value": "Yourself",
+      "slug": "yourself",
+      "attribute": 7,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 29,
+    "fields": {
+      "value": "Fast",
+      "slug": "fast",
+      "attribute": 3,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 30,
+    "fields": {
+      "value": "Group",
+      "slug": "group",
+      "attribute": 11,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 31,
+    "fields": {
+      "value": "Glass",
+      "slug": "glass",
+      "attribute": 5,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 32,
+    "fields": {
+      "value": "Describe",
+      "slug": "describe",
+      "attribute": 14,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 33,
+    "fields": {
+      "value": "Among",
+      "slug": "among",
+      "attribute": 5,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 34,
+    "fields": {
+      "value": "Home",
+      "slug": "home",
+      "attribute": 15,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 35,
+    "fields": {
+      "value": "Miss",
+      "slug": "miss",
+      "attribute": 13,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 36,
+    "fields": {
+      "value": "Body",
+      "slug": "body",
+      "attribute": 10,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 37,
+    "fields": {
+      "value": "Computer",
+      "slug": "computer",
+      "attribute": 11,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 38,
+    "fields": {
+      "value": "Raise",
+      "slug": "raise",
+      "attribute": 1,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 39,
+    "fields": {
+      "value": "Right",
+      "slug": "right",
+      "attribute": 12,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 40,
+    "fields": {
+      "value": "Study",
+      "slug": "study",
+      "attribute": 14,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 41,
+    "fields": {
+      "value": "Six",
+      "slug": "six",
+      "attribute": 12,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 42,
+    "fields": {
+      "value": "Factor",
+      "slug": "factor",
+      "attribute": 2,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 43,
+    "fields": {
+      "value": "Indeed",
+      "slug": "indeed",
+      "attribute": 3,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 44,
+    "fields": {
+      "value": "Suffer",
+      "slug": "suffer",
+      "attribute": 1,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 45,
+    "fields": {
+      "value": "Inside",
+      "slug": "inside",
+      "attribute": 9,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 46,
+    "fields": {
+      "value": "Old",
+      "slug": "old",
+      "attribute": 4,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 47,
+    "fields": {
+      "value": "Ten",
+      "slug": "ten",
+      "attribute": 4,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 48,
+    "fields": {
+      "value": "Appear",
+      "slug": "appear",
+      "attribute": 8,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 49,
+    "fields": {
+      "value": "Space",
+      "slug": "space",
+      "attribute": 14,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  },
+  {
+    "model": "Product.AttributeValue",
+    "pk": 50,
+    "fields": {
+      "value": "Man",
+      "slug": "man",
+      "attribute": 4,
+      "created_at": "2025-07-10T18:06:40.474463Z",
+      "updated_at": "2025-07-10T18:06:40.474463Z"
+    }
+  }
+]

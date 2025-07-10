@@ -1,0 +1,2802 @@
+[
+  {
+    "model": "Product.ProductVariant",
+    "pk": 1,
+    "fields": {
+      "product": 52,
+      "sku": "SKU-060YNs",
+      "price": 77.52,
+      "stock": 36,
+      "image": "https://placekitten.com/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 2,
+    "fields": {
+      "product": 70,
+      "sku": "SKU-710YsZ",
+      "price": 128.68,
+      "stock": 89,
+      "image": "https://picsum.photos/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 3,
+    "fields": {
+      "product": 59,
+      "sku": "SKU-232sil",
+      "price": 82.21,
+      "stock": 2,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 4,
+    "fields": {
+      "product": 52,
+      "sku": "SKU-741pfC",
+      "price": 410.31,
+      "stock": 20,
+      "image": "https://picsum.photos/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 5,
+    "fields": {
+      "product": 58,
+      "sku": "SKU-370gyU",
+      "price": 311.88,
+      "stock": 16,
+      "image": "https://placekitten.com/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 6,
+    "fields": {
+      "product": 60,
+      "sku": "SKU-488LlS",
+      "price": 241.63,
+      "stock": 2,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 7,
+    "fields": {
+      "product": 37,
+      "sku": "SKU-184BdL",
+      "price": 79.85,
+      "stock": 47,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 8,
+    "fields": {
+      "product": 38,
+      "sku": "SKU-413NbG",
+      "price": 236.5,
+      "stock": 1,
+      "image": "https://picsum.photos/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 9,
+    "fields": {
+      "product": 53,
+      "sku": "SKU-936pqY",
+      "price": 227.63,
+      "stock": 67,
+      "image": "https://placekitten.com/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 10,
+    "fields": {
+      "product": 64,
+      "sku": "SKU-625cka",
+      "price": 168.89,
+      "stock": 48,
+      "image": "https://placekitten.com/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 11,
+    "fields": {
+      "product": 18,
+      "sku": "SKU-704xhb",
+      "price": 220.23,
+      "stock": 22,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 12,
+    "fields": {
+      "product": 23,
+      "sku": "SKU-608vVa",
+      "price": 37.87,
+      "stock": 12,
+      "image": "https://picsum.photos/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 13,
+    "fields": {
+      "product": 4,
+      "sku": "SKU-506xyQ",
+      "price": 335.97,
+      "stock": 30,
+      "image": "https://placekitten.com/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 14,
+    "fields": {
+      "product": 28,
+      "sku": "SKU-628xke",
+      "price": 70.02,
+      "stock": 86,
+      "image": "https://picsum.photos/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 15,
+    "fields": {
+      "product": 39,
+      "sku": "SKU-402das",
+      "price": 494.79,
+      "stock": 91,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 16,
+    "fields": {
+      "product": 10,
+      "sku": "SKU-560tBO",
+      "price": 132.13,
+      "stock": 60,
+      "image": "https://picsum.photos/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 17,
+    "fields": {
+      "product": 66,
+      "sku": "SKU-178VLo",
+      "price": 88.99,
+      "stock": 30,
+      "image": "https://picsum.photos/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 18,
+    "fields": {
+      "product": 45,
+      "sku": "SKU-607bZw",
+      "price": 260.95,
+      "stock": 17,
+      "image": "https://picsum.photos/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 19,
+    "fields": {
+      "product": 28,
+      "sku": "SKU-325QWn",
+      "price": 153.01,
+      "stock": 49,
+      "image": "https://picsum.photos/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 20,
+    "fields": {
+      "product": 68,
+      "sku": "SKU-206Che",
+      "price": 115.14,
+      "stock": 100,
+      "image": "https://picsum.photos/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 21,
+    "fields": {
+      "product": 35,
+      "sku": "SKU-755AUX",
+      "price": 106.7,
+      "stock": 54,
+      "image": "https://placekitten.com/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 22,
+    "fields": {
+      "product": 12,
+      "sku": "SKU-872orc",
+      "price": 210.9,
+      "stock": 80,
+      "image": "https://picsum.photos/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 23,
+    "fields": {
+      "product": 59,
+      "sku": "SKU-420tfz",
+      "price": 12.41,
+      "stock": 67,
+      "image": "https://placekitten.com/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 24,
+    "fields": {
+      "product": 62,
+      "sku": "SKU-278Wba",
+      "price": 494.55,
+      "stock": 11,
+      "image": "https://picsum.photos/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 25,
+    "fields": {
+      "product": 41,
+      "sku": "SKU-112exw",
+      "price": 124.04,
+      "stock": 20,
+      "image": "https://placekitten.com/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 26,
+    "fields": {
+      "product": 34,
+      "sku": "SKU-923xIr",
+      "price": 181.28,
+      "stock": 37,
+      "image": "https://placekitten.com/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 27,
+    "fields": {
+      "product": 8,
+      "sku": "SKU-605aFm",
+      "price": 308.83,
+      "stock": 4,
+      "image": "https://placekitten.com/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 28,
+    "fields": {
+      "product": 17,
+      "sku": "SKU-625vYV",
+      "price": 44.17,
+      "stock": 1,
+      "image": "https://placekitten.com/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 29,
+    "fields": {
+      "product": 7,
+      "sku": "SKU-121rvd",
+      "price": 425.15,
+      "stock": 27,
+      "image": "https://picsum.photos/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 30,
+    "fields": {
+      "product": 10,
+      "sku": "SKU-635YZE",
+      "price": 322.7,
+      "stock": 81,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 31,
+    "fields": {
+      "product": 48,
+      "sku": "SKU-497LKZ",
+      "price": 154.2,
+      "stock": 47,
+      "image": "https://picsum.photos/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 32,
+    "fields": {
+      "product": 25,
+      "sku": "SKU-842ulw",
+      "price": 169.43,
+      "stock": 46,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 33,
+    "fields": {
+      "product": 35,
+      "sku": "SKU-819ztD",
+      "price": 277.14,
+      "stock": 58,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 34,
+    "fields": {
+      "product": 18,
+      "sku": "SKU-097MTd",
+      "price": 188.93,
+      "stock": 44,
+      "image": "https://picsum.photos/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 35,
+    "fields": {
+      "product": 49,
+      "sku": "SKU-834Nhx",
+      "price": 356.43,
+      "stock": 58,
+      "image": "https://placekitten.com/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 36,
+    "fields": {
+      "product": 6,
+      "sku": "SKU-582bKR",
+      "price": 186.54,
+      "stock": 66,
+      "image": "https://placekitten.com/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 37,
+    "fields": {
+      "product": 54,
+      "sku": "SKU-954off",
+      "price": 260.57,
+      "stock": 45,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 38,
+    "fields": {
+      "product": 67,
+      "sku": "SKU-226nko",
+      "price": 154.58,
+      "stock": 66,
+      "image": "https://placekitten.com/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 39,
+    "fields": {
+      "product": 50,
+      "sku": "SKU-438mFY",
+      "price": 355.54,
+      "stock": 12,
+      "image": "https://placekitten.com/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 40,
+    "fields": {
+      "product": 39,
+      "sku": "SKU-109LAk",
+      "price": 399.44,
+      "stock": 3,
+      "image": "https://picsum.photos/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 41,
+    "fields": {
+      "product": 21,
+      "sku": "SKU-575axI",
+      "price": 357.33,
+      "stock": 80,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 42,
+    "fields": {
+      "product": 27,
+      "sku": "SKU-370VJq",
+      "price": 107.87,
+      "stock": 92,
+      "image": "https://placekitten.com/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 43,
+    "fields": {
+      "product": 10,
+      "sku": "SKU-666xOq",
+      "price": 345.87,
+      "stock": 96,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 44,
+    "fields": {
+      "product": 64,
+      "sku": "SKU-278Acj",
+      "price": 210.56,
+      "stock": 33,
+      "image": "https://picsum.photos/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 45,
+    "fields": {
+      "product": 58,
+      "sku": "SKU-952qvg",
+      "price": 480.63,
+      "stock": 90,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 46,
+    "fields": {
+      "product": 41,
+      "sku": "SKU-613lQn",
+      "price": 17.89,
+      "stock": 86,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 47,
+    "fields": {
+      "product": 16,
+      "sku": "SKU-939vWY",
+      "price": 167.52,
+      "stock": 73,
+      "image": "https://picsum.photos/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 48,
+    "fields": {
+      "product": 31,
+      "sku": "SKU-114rid",
+      "price": 84.42,
+      "stock": 86,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 49,
+    "fields": {
+      "product": 33,
+      "sku": "SKU-156TVp",
+      "price": 481.19,
+      "stock": 62,
+      "image": "https://picsum.photos/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 50,
+    "fields": {
+      "product": 8,
+      "sku": "SKU-349EAN",
+      "price": 289.7,
+      "stock": 53,
+      "image": "https://picsum.photos/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 51,
+    "fields": {
+      "product": 2,
+      "sku": "SKU-561kRh",
+      "price": 236.95,
+      "stock": 2,
+      "image": "https://picsum.photos/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 52,
+    "fields": {
+      "product": 38,
+      "sku": "SKU-545BdW",
+      "price": 70.99,
+      "stock": 23,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 53,
+    "fields": {
+      "product": 40,
+      "sku": "SKU-864Sie",
+      "price": 406.55,
+      "stock": 51,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 54,
+    "fields": {
+      "product": 22,
+      "sku": "SKU-882qSz",
+      "price": 243.84,
+      "stock": 64,
+      "image": "https://placekitten.com/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 55,
+    "fields": {
+      "product": 24,
+      "sku": "SKU-407fjT",
+      "price": 361.66,
+      "stock": 35,
+      "image": "https://picsum.photos/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 56,
+    "fields": {
+      "product": 61,
+      "sku": "SKU-585QMb",
+      "price": 273.43,
+      "stock": 100,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 57,
+    "fields": {
+      "product": 2,
+      "sku": "SKU-191hzR",
+      "price": 289.25,
+      "stock": 58,
+      "image": "https://picsum.photos/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 58,
+    "fields": {
+      "product": 55,
+      "sku": "SKU-894sJn",
+      "price": 194.89,
+      "stock": 92,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 59,
+    "fields": {
+      "product": 2,
+      "sku": "SKU-771yuj",
+      "price": 413.46,
+      "stock": 48,
+      "image": "https://placekitten.com/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 60,
+    "fields": {
+      "product": 70,
+      "sku": "SKU-810Khl",
+      "price": 434.19,
+      "stock": 51,
+      "image": "https://picsum.photos/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 61,
+    "fields": {
+      "product": 27,
+      "sku": "SKU-578tzr",
+      "price": 158.94,
+      "stock": 11,
+      "image": "https://picsum.photos/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 62,
+    "fields": {
+      "product": 39,
+      "sku": "SKU-878nrg",
+      "price": 65.41,
+      "stock": 52,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 63,
+    "fields": {
+      "product": 59,
+      "sku": "SKU-845hYp",
+      "price": 140.66,
+      "stock": 66,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 64,
+    "fields": {
+      "product": 13,
+      "sku": "SKU-366bbA",
+      "price": 338.79,
+      "stock": 66,
+      "image": "https://picsum.photos/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 65,
+    "fields": {
+      "product": 62,
+      "sku": "SKU-819XUs",
+      "price": 326.36,
+      "stock": 33,
+      "image": "https://picsum.photos/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 66,
+    "fields": {
+      "product": 8,
+      "sku": "SKU-155ZeQ",
+      "price": 205.26,
+      "stock": 16,
+      "image": "https://picsum.photos/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 67,
+    "fields": {
+      "product": 3,
+      "sku": "SKU-613ilu",
+      "price": 496.57,
+      "stock": 97,
+      "image": "https://picsum.photos/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 68,
+    "fields": {
+      "product": 22,
+      "sku": "SKU-768KLF",
+      "price": 399.17,
+      "stock": 53,
+      "image": "https://picsum.photos/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 69,
+    "fields": {
+      "product": 57,
+      "sku": "SKU-780hcY",
+      "price": 408.73,
+      "stock": 68,
+      "image": "https://picsum.photos/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 70,
+    "fields": {
+      "product": 41,
+      "sku": "SKU-808GuU",
+      "price": 294.9,
+      "stock": 18,
+      "image": "https://placekitten.com/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 71,
+    "fields": {
+      "product": 20,
+      "sku": "SKU-152KPv",
+      "price": 340.65,
+      "stock": 62,
+      "image": "https://placekitten.com/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 72,
+    "fields": {
+      "product": 37,
+      "sku": "SKU-028OXr",
+      "price": 139.34,
+      "stock": 92,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 73,
+    "fields": {
+      "product": 20,
+      "sku": "SKU-053ABA",
+      "price": 437.6,
+      "stock": 65,
+      "image": "https://picsum.photos/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 74,
+    "fields": {
+      "product": 31,
+      "sku": "SKU-088lGz",
+      "price": 466.5,
+      "stock": 43,
+      "image": "https://picsum.photos/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 75,
+    "fields": {
+      "product": 44,
+      "sku": "SKU-172ecf",
+      "price": 363.74,
+      "stock": 98,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 76,
+    "fields": {
+      "product": 17,
+      "sku": "SKU-957XVw",
+      "price": 156.69,
+      "stock": 27,
+      "image": "https://picsum.photos/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 77,
+    "fields": {
+      "product": 29,
+      "sku": "SKU-249APT",
+      "price": 473.97,
+      "stock": 2,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 78,
+    "fields": {
+      "product": 69,
+      "sku": "SKU-747fMQ",
+      "price": 33.97,
+      "stock": 66,
+      "image": "https://placekitten.com/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 79,
+    "fields": {
+      "product": 6,
+      "sku": "SKU-723ewW",
+      "price": 430.14,
+      "stock": 10,
+      "image": "https://placekitten.com/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 80,
+    "fields": {
+      "product": 32,
+      "sku": "SKU-475Nzz",
+      "price": 260.57,
+      "stock": 46,
+      "image": "https://placekitten.com/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 81,
+    "fields": {
+      "product": 68,
+      "sku": "SKU-285PRs",
+      "price": 284.12,
+      "stock": 66,
+      "image": "https://picsum.photos/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 82,
+    "fields": {
+      "product": 51,
+      "sku": "SKU-497jio",
+      "price": 100.44,
+      "stock": 37,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 83,
+    "fields": {
+      "product": 3,
+      "sku": "SKU-821nNx",
+      "price": 77.91,
+      "stock": 99,
+      "image": "https://picsum.photos/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 84,
+    "fields": {
+      "product": 4,
+      "sku": "SKU-811FwP",
+      "price": 423.54,
+      "stock": 46,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 85,
+    "fields": {
+      "product": 54,
+      "sku": "SKU-385HTJ",
+      "price": 218.35,
+      "stock": 36,
+      "image": "https://picsum.photos/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 86,
+    "fields": {
+      "product": 68,
+      "sku": "SKU-743Svm",
+      "price": 496.49,
+      "stock": 48,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 87,
+    "fields": {
+      "product": 42,
+      "sku": "SKU-074OVD",
+      "price": 327.49,
+      "stock": 36,
+      "image": "https://placekitten.com/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 88,
+    "fields": {
+      "product": 62,
+      "sku": "SKU-638eYH",
+      "price": 156.85,
+      "stock": 5,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 89,
+    "fields": {
+      "product": 41,
+      "sku": "SKU-042UNB",
+      "price": 274.14,
+      "stock": 32,
+      "image": "https://placekitten.com/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 90,
+    "fields": {
+      "product": 62,
+      "sku": "SKU-559Nni",
+      "price": 146.61,
+      "stock": 0,
+      "image": "https://placekitten.com/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 91,
+    "fields": {
+      "product": 29,
+      "sku": "SKU-170ZBt",
+      "price": 307.42,
+      "stock": 50,
+      "image": "https://placekitten.com/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 92,
+    "fields": {
+      "product": 60,
+      "sku": "SKU-522IZL",
+      "price": 382.69,
+      "stock": 93,
+      "image": "https://picsum.photos/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 93,
+    "fields": {
+      "product": 21,
+      "sku": "SKU-404nMm",
+      "price": 308.18,
+      "stock": 87,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 94,
+    "fields": {
+      "product": 68,
+      "sku": "SKU-284wLH",
+      "price": 55.88,
+      "stock": 57,
+      "image": "https://placekitten.com/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 95,
+    "fields": {
+      "product": 16,
+      "sku": "SKU-909Mhp",
+      "price": 35.51,
+      "stock": 11,
+      "image": "https://placekitten.com/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 96,
+    "fields": {
+      "product": 17,
+      "sku": "SKU-314ucZ",
+      "price": 450.07,
+      "stock": 74,
+      "image": "https://placekitten.com/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 97,
+    "fields": {
+      "product": 8,
+      "sku": "SKU-391GqW",
+      "price": 453.88,
+      "stock": 43,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 98,
+    "fields": {
+      "product": 34,
+      "sku": "SKU-607tJF",
+      "price": 131.96,
+      "stock": 41,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 99,
+    "fields": {
+      "product": 13,
+      "sku": "SKU-566iJk",
+      "price": 302.79,
+      "stock": 24,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 100,
+    "fields": {
+      "product": 52,
+      "sku": "SKU-045lRz",
+      "price": 392.61,
+      "stock": 88,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 101,
+    "fields": {
+      "product": 8,
+      "sku": "SKU-631gFd",
+      "price": 346.9,
+      "stock": 22,
+      "image": "https://placekitten.com/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 102,
+    "fields": {
+      "product": 57,
+      "sku": "SKU-453SgE",
+      "price": 91.44,
+      "stock": 32,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 103,
+    "fields": {
+      "product": 46,
+      "sku": "SKU-264GAi",
+      "price": 370.03,
+      "stock": 9,
+      "image": "https://picsum.photos/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 104,
+    "fields": {
+      "product": 29,
+      "sku": "SKU-818QUh",
+      "price": 150.84,
+      "stock": 65,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 105,
+    "fields": {
+      "product": 42,
+      "sku": "SKU-606xBE",
+      "price": 26.73,
+      "stock": 55,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 106,
+    "fields": {
+      "product": 49,
+      "sku": "SKU-753aIt",
+      "price": 236.48,
+      "stock": 36,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 107,
+    "fields": {
+      "product": 7,
+      "sku": "SKU-534SLJ",
+      "price": 290.84,
+      "stock": 56,
+      "image": "https://placekitten.com/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 108,
+    "fields": {
+      "product": 15,
+      "sku": "SKU-740MLJ",
+      "price": 255.44,
+      "stock": 54,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 109,
+    "fields": {
+      "product": 23,
+      "sku": "SKU-507ZvS",
+      "price": 71.84,
+      "stock": 63,
+      "image": "https://placekitten.com/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 110,
+    "fields": {
+      "product": 7,
+      "sku": "SKU-328AGI",
+      "price": 469.73,
+      "stock": 42,
+      "image": "https://placekitten.com/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 111,
+    "fields": {
+      "product": 58,
+      "sku": "SKU-995nBt",
+      "price": 151.53,
+      "stock": 53,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 112,
+    "fields": {
+      "product": 70,
+      "sku": "SKU-295qqC",
+      "price": 128.19,
+      "stock": 1,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 113,
+    "fields": {
+      "product": 17,
+      "sku": "SKU-687avb",
+      "price": 298.49,
+      "stock": 55,
+      "image": "https://placekitten.com/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 114,
+    "fields": {
+      "product": 26,
+      "sku": "SKU-655bSq",
+      "price": 193.83,
+      "stock": 39,
+      "image": "https://placekitten.com/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 115,
+    "fields": {
+      "product": 28,
+      "sku": "SKU-054ggV",
+      "price": 120.37,
+      "stock": 31,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 116,
+    "fields": {
+      "product": 52,
+      "sku": "SKU-512IME",
+      "price": 38.55,
+      "stock": 43,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 117,
+    "fields": {
+      "product": 55,
+      "sku": "SKU-686MMN",
+      "price": 112.54,
+      "stock": 87,
+      "image": "https://placekitten.com/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 118,
+    "fields": {
+      "product": 47,
+      "sku": "SKU-785tLJ",
+      "price": 418.94,
+      "stock": 15,
+      "image": "https://placekitten.com/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 119,
+    "fields": {
+      "product": 28,
+      "sku": "SKU-054XFm",
+      "price": 296.95,
+      "stock": 97,
+      "image": "https://picsum.photos/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 120,
+    "fields": {
+      "product": 42,
+      "sku": "SKU-528SrG",
+      "price": 449.5,
+      "stock": 58,
+      "image": "https://placekitten.com/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 121,
+    "fields": {
+      "product": 26,
+      "sku": "SKU-976fwV",
+      "price": 83.29,
+      "stock": 7,
+      "image": "https://picsum.photos/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 122,
+    "fields": {
+      "product": 9,
+      "sku": "SKU-931cwV",
+      "price": 16.19,
+      "stock": 47,
+      "image": "https://picsum.photos/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 123,
+    "fields": {
+      "product": 32,
+      "sku": "SKU-984yns",
+      "price": 41.4,
+      "stock": 54,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 124,
+    "fields": {
+      "product": 25,
+      "sku": "SKU-264iyS",
+      "price": 211.05,
+      "stock": 55,
+      "image": "https://placekitten.com/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 125,
+    "fields": {
+      "product": 40,
+      "sku": "SKU-328OMq",
+      "price": 202.47,
+      "stock": 48,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 126,
+    "fields": {
+      "product": 39,
+      "sku": "SKU-182nta",
+      "price": 315.59,
+      "stock": 100,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 127,
+    "fields": {
+      "product": 67,
+      "sku": "SKU-303TKN",
+      "price": 375.64,
+      "stock": 31,
+      "image": "https://picsum.photos/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 128,
+    "fields": {
+      "product": 67,
+      "sku": "SKU-822AsT",
+      "price": 89.23,
+      "stock": 9,
+      "image": "https://placekitten.com/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 129,
+    "fields": {
+      "product": 6,
+      "sku": "SKU-189Tcf",
+      "price": 139.4,
+      "stock": 25,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 130,
+    "fields": {
+      "product": 63,
+      "sku": "SKU-663Qbt",
+      "price": 262.76,
+      "stock": 8,
+      "image": "https://picsum.photos/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 131,
+    "fields": {
+      "product": 11,
+      "sku": "SKU-492Ysm",
+      "price": 104.0,
+      "stock": 36,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 132,
+    "fields": {
+      "product": 20,
+      "sku": "SKU-576rTa",
+      "price": 149.43,
+      "stock": 71,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 133,
+    "fields": {
+      "product": 43,
+      "sku": "SKU-191Mzm",
+      "price": 38.15,
+      "stock": 66,
+      "image": "https://placekitten.com/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 134,
+    "fields": {
+      "product": 26,
+      "sku": "SKU-035sMe",
+      "price": 84.68,
+      "stock": 21,
+      "image": "https://placekitten.com/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 135,
+    "fields": {
+      "product": 54,
+      "sku": "SKU-505GII",
+      "price": 43.25,
+      "stock": 54,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 136,
+    "fields": {
+      "product": 38,
+      "sku": "SKU-414pii",
+      "price": 226.27,
+      "stock": 55,
+      "image": "https://placekitten.com/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 137,
+    "fields": {
+      "product": 47,
+      "sku": "SKU-741xBJ",
+      "price": 407.15,
+      "stock": 96,
+      "image": "https://placekitten.com/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 138,
+    "fields": {
+      "product": 57,
+      "sku": "SKU-190jUI",
+      "price": 289.4,
+      "stock": 97,
+      "image": "https://placekitten.com/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 139,
+    "fields": {
+      "product": 27,
+      "sku": "SKU-374uSy",
+      "price": 240.23,
+      "stock": 50,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 140,
+    "fields": {
+      "product": 41,
+      "sku": "SKU-100jqL",
+      "price": 428.27,
+      "stock": 46,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 141,
+    "fields": {
+      "product": 34,
+      "sku": "SKU-606nZY",
+      "price": 447.77,
+      "stock": 28,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 142,
+    "fields": {
+      "product": 69,
+      "sku": "SKU-370FBf",
+      "price": 141.26,
+      "stock": 91,
+      "image": "https://picsum.photos/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 143,
+    "fields": {
+      "product": 20,
+      "sku": "SKU-693Ihm",
+      "price": 358.48,
+      "stock": 54,
+      "image": "https://picsum.photos/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 144,
+    "fields": {
+      "product": 46,
+      "sku": "SKU-991BGc",
+      "price": 207.22,
+      "stock": 63,
+      "image": "https://picsum.photos/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 145,
+    "fields": {
+      "product": 31,
+      "sku": "SKU-482Rux",
+      "price": 293.55,
+      "stock": 89,
+      "image": "https://picsum.photos/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 146,
+    "fields": {
+      "product": 18,
+      "sku": "SKU-184zFi",
+      "price": 182.82,
+      "stock": 82,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 147,
+    "fields": {
+      "product": 33,
+      "sku": "SKU-829vBU",
+      "price": 302.11,
+      "stock": 79,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 148,
+    "fields": {
+      "product": 25,
+      "sku": "SKU-194ZWp",
+      "price": 399.98,
+      "stock": 19,
+      "image": "https://picsum.photos/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 149,
+    "fields": {
+      "product": 34,
+      "sku": "SKU-338QBQ",
+      "price": 153.89,
+      "stock": 18,
+      "image": "https://picsum.photos/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 150,
+    "fields": {
+      "product": 32,
+      "sku": "SKU-469XOd",
+      "price": 341.83,
+      "stock": 65,
+      "image": "https://placekitten.com/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 151,
+    "fields": {
+      "product": 46,
+      "sku": "SKU-715kOG",
+      "price": 481.35,
+      "stock": 51,
+      "image": "https://placekitten.com/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 152,
+    "fields": {
+      "product": 27,
+      "sku": "SKU-512nZY",
+      "price": 192.58,
+      "stock": 9,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 153,
+    "fields": {
+      "product": 13,
+      "sku": "SKU-192fws",
+      "price": 75.47,
+      "stock": 71,
+      "image": "https://placekitten.com/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 154,
+    "fields": {
+      "product": 41,
+      "sku": "SKU-229lVM",
+      "price": 268.82,
+      "stock": 28,
+      "image": "https://placekitten.com/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 155,
+    "fields": {
+      "product": 39,
+      "sku": "SKU-468aby",
+      "price": 427.73,
+      "stock": 74,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 156,
+    "fields": {
+      "product": 6,
+      "sku": "SKU-656Hxa",
+      "price": 428.88,
+      "stock": 9,
+      "image": "https://placekitten.com/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 157,
+    "fields": {
+      "product": 42,
+      "sku": "SKU-033gJJ",
+      "price": 118.7,
+      "stock": 46,
+      "image": "https://picsum.photos/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 158,
+    "fields": {
+      "product": 52,
+      "sku": "SKU-168zVD",
+      "price": 275.12,
+      "stock": 43,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 159,
+    "fields": {
+      "product": 34,
+      "sku": "SKU-595uif",
+      "price": 317.28,
+      "stock": 81,
+      "image": "https://picsum.photos/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 160,
+    "fields": {
+      "product": 16,
+      "sku": "SKU-499vxq",
+      "price": 84.36,
+      "stock": 62,
+      "image": "https://picsum.photos/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 161,
+    "fields": {
+      "product": 35,
+      "sku": "SKU-307lZf",
+      "price": 77.77,
+      "stock": 65,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 162,
+    "fields": {
+      "product": 43,
+      "sku": "SKU-221KHU",
+      "price": 103.59,
+      "stock": 73,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 163,
+    "fields": {
+      "product": 13,
+      "sku": "SKU-661vCL",
+      "price": 66.91,
+      "stock": 26,
+      "image": "https://placekitten.com/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 164,
+    "fields": {
+      "product": 11,
+      "sku": "SKU-435hLb",
+      "price": 129.94,
+      "stock": 72,
+      "image": "https://placekitten.com/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 165,
+    "fields": {
+      "product": 69,
+      "sku": "SKU-570VvH",
+      "price": 114.14,
+      "stock": 16,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 166,
+    "fields": {
+      "product": 66,
+      "sku": "SKU-506cnX",
+      "price": 438.35,
+      "stock": 10,
+      "image": "https://placekitten.com/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 167,
+    "fields": {
+      "product": 44,
+      "sku": "SKU-590rCz",
+      "price": 496.39,
+      "stock": 12,
+      "image": "https://placekitten.com/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 168,
+    "fields": {
+      "product": 33,
+      "sku": "SKU-983dcy",
+      "price": 470.61,
+      "stock": 39,
+      "image": "https://placekitten.com/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 169,
+    "fields": {
+      "product": 28,
+      "sku": "SKU-841jTx",
+      "price": 18.4,
+      "stock": 78,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 170,
+    "fields": {
+      "product": 42,
+      "sku": "SKU-206btQ",
+      "price": 108.45,
+      "stock": 92,
+      "image": "https://placekitten.com/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 171,
+    "fields": {
+      "product": 69,
+      "sku": "SKU-832oCJ",
+      "price": 181.37,
+      "stock": 25,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 172,
+    "fields": {
+      "product": 36,
+      "sku": "SKU-428WuQ",
+      "price": 22.49,
+      "stock": 17,
+      "image": "https://picsum.photos/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 173,
+    "fields": {
+      "product": 45,
+      "sku": "SKU-275YRg",
+      "price": 438.8,
+      "stock": 2,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 174,
+    "fields": {
+      "product": 4,
+      "sku": "SKU-780fZC",
+      "price": 391.67,
+      "stock": 97,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 175,
+    "fields": {
+      "product": 66,
+      "sku": "SKU-789myp",
+      "price": 27.02,
+      "stock": 19,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 176,
+    "fields": {
+      "product": 53,
+      "sku": "SKU-519xua",
+      "price": 67.01,
+      "stock": 10,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 177,
+    "fields": {
+      "product": 33,
+      "sku": "SKU-070iVs",
+      "price": 286.48,
+      "stock": 88,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 178,
+    "fields": {
+      "product": 47,
+      "sku": "SKU-341mEr",
+      "price": 264.81,
+      "stock": 94,
+      "image": "https://placekitten.com/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 179,
+    "fields": {
+      "product": 24,
+      "sku": "SKU-928vQg",
+      "price": 403.41,
+      "stock": 47,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 180,
+    "fields": {
+      "product": 67,
+      "sku": "SKU-089Eiw",
+      "price": 72.87,
+      "stock": 12,
+      "image": "https://picsum.photos/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 181,
+    "fields": {
+      "product": 59,
+      "sku": "SKU-873wuS",
+      "price": 289.0,
+      "stock": 21,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 182,
+    "fields": {
+      "product": 11,
+      "sku": "SKU-037AEG",
+      "price": 410.22,
+      "stock": 44,
+      "image": "https://placekitten.com/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 183,
+    "fields": {
+      "product": 31,
+      "sku": "SKU-136jDo",
+      "price": 272.56,
+      "stock": 13,
+      "image": "https://picsum.photos/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 184,
+    "fields": {
+      "product": 27,
+      "sku": "SKU-025Zbv",
+      "price": 244.74,
+      "stock": 0,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 185,
+    "fields": {
+      "product": 5,
+      "sku": "SKU-063LkH",
+      "price": 494.67,
+      "stock": 64,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 186,
+    "fields": {
+      "product": 70,
+      "sku": "SKU-699RlC",
+      "price": 395.13,
+      "stock": 21,
+      "image": "https://placekitten.com/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 187,
+    "fields": {
+      "product": 1,
+      "sku": "SKU-188xoM",
+      "price": 192.98,
+      "stock": 57,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 188,
+    "fields": {
+      "product": 15,
+      "sku": "SKU-749AIW",
+      "price": 217.37,
+      "stock": 84,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 189,
+    "fields": {
+      "product": 56,
+      "sku": "SKU-310zTF",
+      "price": 446.18,
+      "stock": 47,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 190,
+    "fields": {
+      "product": 45,
+      "sku": "SKU-248BXR",
+      "price": 252.1,
+      "stock": 91,
+      "image": "https://picsum.photos/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 191,
+    "fields": {
+      "product": 15,
+      "sku": "SKU-898XLm",
+      "price": 460.9,
+      "stock": 95,
+      "image": "https://picsum.photos/640/480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 192,
+    "fields": {
+      "product": 18,
+      "sku": "SKU-288zhO",
+      "price": 478.18,
+      "stock": 0,
+      "image": "https://placekitten.com/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 193,
+    "fields": {
+      "product": 65,
+      "sku": "SKU-398fve",
+      "price": 47.49,
+      "stock": 4,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 194,
+    "fields": {
+      "product": 49,
+      "sku": "SKU-404Juz",
+      "price": 401.32,
+      "stock": 9,
+      "image": "https://placekitten.com/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 195,
+    "fields": {
+      "product": 66,
+      "sku": "SKU-638kCy",
+      "price": 248.73,
+      "stock": 9,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 196,
+    "fields": {
+      "product": 44,
+      "sku": "SKU-712jrh",
+      "price": 331.53,
+      "stock": 33,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": true,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 197,
+    "fields": {
+      "product": 4,
+      "sku": "SKU-753fuM",
+      "price": 84.16,
+      "stock": 9,
+      "image": "https://picsum.photos/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 198,
+    "fields": {
+      "product": 20,
+      "sku": "SKU-343Axb",
+      "price": 277.4,
+      "stock": 97,
+      "image": "https://picsum.photos/640/480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 199,
+    "fields": {
+      "product": 34,
+      "sku": "SKU-996GeV",
+      "price": 111.1,
+      "stock": 94,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  },
+  {
+    "model": "Product.ProductVariant",
+    "pk": 200,
+    "fields": {
+      "product": 9,
+      "sku": "SKU-833jyi",
+      "price": 191.7,
+      "stock": 84,
+      "image": "https://dummyimage.com/640x480",
+      "is_active": false,
+      "created_at": "2025-07-10T18:23:44.986932Z",
+      "updated_at": "2025-07-10T18:23:44.986932Z"
+    }
+  }
+]
