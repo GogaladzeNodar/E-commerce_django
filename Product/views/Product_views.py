@@ -2,7 +2,7 @@ from rest_framework import status
 from rest_framework.response import Response
 from rest_framework.views import APIView
 from django.shortcuts import get_object_or_404
-from Product.serializers import BasicProductSerializer, ProductReadSerializer, ProductWriteSerializer
+from Product.serializers import BasicProductSerializer, ProductReadSerializer
 from Product.models import Product
 
 # where we need Products
@@ -23,13 +23,13 @@ class ProductListView(APIView):
     
 
 
-    class ProductDetailView(APIView):
-        """
-        View to retrieve the details of a specific product.
-        """
+class ProductDetailView(APIView):
+    """
+    View to retrieve the details of a specific product.
+    """
 
-        def get(self, request, slug):
-            product = get_object_or_404(Product, slug=slug, is_active=True)
-            serializer = ProductReadSerializer(product)
-            return Response(serializer.data, status=status.HTTP_200_OK)
+    def get(self, request, slug):
+        product = get_object_or_404(Product, slug=slug, is_active=True)
+        serializer = ProductReadSerializer(product)
+        return Response(serializer.data, status=status.HTTP_200_OK)
 
