@@ -2,7 +2,7 @@ from rest_framework import status
 from rest_framework.response import Response
 from rest_framework.views import APIView
 from django.shortcuts import get_object_or_404
-from Product.serializers import AttributeSerializer, ProductReadSerializer
+from Product.serializers import AttributeSerializer, AttributeValueSerializer
 from Product.models import Attribute
 
 # where we need Attributes
@@ -36,3 +36,18 @@ class AttributeDetailView(APIView):
     
 
 
+class AttributeWithValuesView(APIView):
+    """
+    View to retrieve the details of a specific attribute with its values.
+    """
+
+    def get(self, request, slug):
+        attribute = get_object_or_404(Attribute, slug=slug)
+        serializer = AttributeSerializer(attribute)
+        values = attribute.values.all()
+        value_serializer = AttributeValueSerializer(values, many=True)
+        return Response({
+            'attribute': serializer.data,
+            'values': value_serializer.data
+        }, status=status.HTTP_200_OK)
+        

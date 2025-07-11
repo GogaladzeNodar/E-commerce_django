@@ -9,7 +9,7 @@ from .models import (
     Attribute,
 )
 import re
-from core import validators
+from Product import validators
 
 from core.constraints import SLUG_PATTERN
 
@@ -318,7 +318,7 @@ class ProductVariantSerializer(serializers.Serializer):
 
     id = serializers.ReadOnlyField()
     sku = serializers.CharField(max_length=100)
-    price = serializers.DecimalField()
+    price = serializers.DecimalField(max_digits=10, decimal_places=2)
     stock = serializers.IntegerField()
     image = serializers.ImageField(allow_null=True, required=False)
     is_active = serializers.BooleanField(default=True)
@@ -339,7 +339,7 @@ class ProductVariantSerializer(serializers.Serializer):
         ]
 
 
-class ProductVariantAttributeValueSerializer(serializers.modelserialaizer):
+class ProductVariantAttributeValueSerializer(serializers.ModelSerializer):
     """
     ProductVariantAttributeValue serializer
     """
